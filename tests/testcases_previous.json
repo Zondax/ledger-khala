@@ -1,0 +1,2906 @@
+[
+  {
+    "index": 1,
+    "name": "Balances_Transfer",
+    "blob": "280002809f84b2c54bd5dedbafc4ac67081664db176bfe2725ef7615b20e4194fc596a8000d5030403d20296499d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Balances : Transfer",
+      "1 | Dest [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Dest [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Amount : PHA 0.0",
+      "3 | Tip : PHA 0.00123456789"
+    ],
+    "output_expert": [
+      "0 | Balances : Transfer",
+      "1 | Dest [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Dest [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Amount : PHA 0.0",
+      "3 | Chain : Khala",
+      "4 | Nonce : 1",
+      "5 | Tip : PHA 0.00123456789",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 2,
+    "name": "Balances_Transfer",
+    "blob": "280002809f84b2c54bd5dedbafc4ac67081664db176bfe2725ef7615b20e4194fc596a8003d2029649d503008ed73e0d9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Balances : Transfer",
+      "1 | Dest [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Dest [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Amount : PHA 0.00123456789",
+      "3 | Tip : PHA 0.000055555555"
+    ],
+    "output_expert": [
+      "0 | Balances : Transfer",
+      "1 | Dest [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Dest [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Amount : PHA 0.00123456789",
+      "3 | Chain : Khala",
+      "4 | Nonce : 0",
+      "5 | Tip : PHA 0.000055555555",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 3,
+    "name": "Balances_Transfer",
+    "blob": "280004297beecb87197bf24cabf83c9054b35aef49036433158139ae28a3dfaac5fe1560a5e9e05cd503ae1103006d0f9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Balances : Transfer",
+      "1 | Dest [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Dest [2/2] : 64",
+      "2 | Amount [1/2] : PHA 123456789012345678901234567.890123",
+      "2 | Amount [2/2] : 456789",
+      "3 | Tip : PHA 0.000000000987"
+    ],
+    "output_expert": [
+      "0 | Balances : Transfer",
+      "1 | Dest [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Dest [2/2] : 64",
+      "2 | Amount [1/2] : PHA 123456789012345678901234567.890123",
+      "2 | Amount [2/2] : 456789",
+      "3 | Chain : Khala",
+      "4 | Nonce : 50283",
+      "5 | Tip : PHA 0.000000000987",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 4,
+    "name": "Balances_Transfer",
+    "blob": "280002809f84b2c54bd5dedbafc4ac67081664db176bfe2725ef7615b20e4194fc596a8003d2029649d503000b63ce64c10c059d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Balances : Transfer",
+      "1 | Dest [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Dest [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Amount : PHA 0.00123456789",
+      "3 | Tip : PHA 5.552342355555"
+    ],
+    "output_expert": [
+      "0 | Balances : Transfer",
+      "1 | Dest [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Dest [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Amount : PHA 0.00123456789",
+      "3 | Chain : Khala",
+      "4 | Nonce : 0",
+      "5 | Tip : PHA 5.552342355555",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 5,
+    "name": "Balances_Transfer",
+    "blob": "28000068179b9ae3741bae4790201deb57a096f6855946a4ef2fd219c087eb963cf7e06d0fd503ae1103006d0f9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Balances : Transfer",
+      "1 | Dest [1/2] : 42yGkMhNHzUCVsNURVj56AsYhGzeCF3msn56Sw",
+      "1 | Dest [2/2] : 7k8RzTJWda",
+      "2 | Amount : PHA 0.000000000987",
+      "3 | Tip : PHA 0.000000000987"
+    ],
+    "output_expert": [
+      "0 | Balances : Transfer",
+      "1 | Dest [1/2] : 42yGkMhNHzUCVsNURVj56AsYhGzeCF3msn56Sw",
+      "1 | Dest [2/2] : 7k8RzTJWda",
+      "2 | Amount : PHA 0.000000000987",
+      "3 | Chain : Khala",
+      "4 | Nonce : 50283",
+      "5 | Tip : PHA 0.000000000987",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 6,
+    "name": "Balances_Set_balance",
+    "blob": "280104297beecb87197bf24cabf83c9054b35aef4903640b63ce64c10c056d0fd503040b63ce64c10c059d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Balances : Set balance",
+      "1 | Who [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Who [2/2] : 64",
+      "2 | New free : PHA 5.552342355555",
+      "3 | New reserved : PHA 0.000000000987",
+      "4 | Tip : PHA 5.552342355555"
+    ],
+    "output_expert": [
+      "0 | Balances : Set balance",
+      "1 | Who [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Who [2/2] : 64",
+      "2 | New free : PHA 5.552342355555",
+      "3 | New reserved : PHA 0.000000000987",
+      "4 | Chain : Khala",
+      "5 | Nonce : 1",
+      "6 | Tip : PHA 5.552342355555",
+      "7 | Era Phase : 61",
+      "8 | Era Period : 64",
+      "9 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "9 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 7,
+    "name": "Balances_Set_balance",
+    "blob": "280102809f84b2c54bd5dedbafc4ac67081664db176bfe2725ef7615b20e4194fc596a806d0f33158139ae28a3dfaac5fe1560a5e9e05cd5030033158139ae28a3dfaac5fe1560a5e9e05c9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Balances : Set balance",
+      "1 | Who [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Who [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | New free : PHA 0.000000000987",
+      "3 | New reserved [1/2] : PHA 123456789012345678901234567.890123",
+      "3 | New reserved [2/2] : 456789",
+      "4 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "4 | Tip [2/2] : 456789"
+    ],
+    "output_expert": [
+      "0 | Balances : Set balance",
+      "1 | Who [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Who [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | New free : PHA 0.000000000987",
+      "3 | New reserved [1/2] : PHA 123456789012345678901234567.890123",
+      "3 | New reserved [2/2] : 456789",
+      "4 | Chain : Khala",
+      "5 | Nonce : 0",
+      "6 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "6 | Tip [2/2] : 456789",
+      "7 | Era Phase : 61",
+      "8 | Era Period : 64",
+      "9 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "9 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 8,
+    "name": "Balances_Set_balance",
+    "blob": "280102809f84b2c54bd5dedbafc4ac67081664db176bfe2725ef7615b20e4194fc596a800b63ce64c10c0500d5030433158139ae28a3dfaac5fe1560a5e9e05c9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Balances : Set balance",
+      "1 | Who [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Who [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | New free : PHA 5.552342355555",
+      "3 | New reserved : PHA 0.0",
+      "4 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "4 | Tip [2/2] : 456789"
+    ],
+    "output_expert": [
+      "0 | Balances : Set balance",
+      "1 | Who [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Who [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | New free : PHA 5.552342355555",
+      "3 | New reserved : PHA 0.0",
+      "4 | Chain : Khala",
+      "5 | Nonce : 1",
+      "6 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "6 | Tip [2/2] : 456789",
+      "7 | Era Phase : 61",
+      "8 | Era Period : 64",
+      "9 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "9 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 9,
+    "name": "Balances_Set_balance",
+    "blob": "28010068179b9ae3741bae4790201deb57a096f6855946a4ef2fd219c087eb963cf7e00003d2029649d503ae11030003d20296499d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Balances : Set balance",
+      "1 | Who [1/2] : 42yGkMhNHzUCVsNURVj56AsYhGzeCF3msn56Sw",
+      "1 | Who [2/2] : 7k8RzTJWda",
+      "2 | New free : PHA 0.0",
+      "3 | New reserved : PHA 0.00123456789",
+      "4 | Tip : PHA 0.00123456789"
+    ],
+    "output_expert": [
+      "0 | Balances : Set balance",
+      "1 | Who [1/2] : 42yGkMhNHzUCVsNURVj56AsYhGzeCF3msn56Sw",
+      "1 | Who [2/2] : 7k8RzTJWda",
+      "2 | New free : PHA 0.0",
+      "3 | New reserved : PHA 0.00123456789",
+      "4 | Chain : Khala",
+      "5 | Nonce : 50283",
+      "6 | Tip : PHA 0.00123456789",
+      "7 | Era Phase : 61",
+      "8 | Era Period : 64",
+      "9 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "9 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 10,
+    "name": "Balances_Set_balance",
+    "blob": "280104297beecb87197bf24cabf83c9054b35aef4903646d0f8ed73e0dd5038d246d0f9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Balances : Set balance",
+      "1 | Who [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Who [2/2] : 64",
+      "2 | New free : PHA 0.000000000987",
+      "3 | New reserved : PHA 0.000055555555",
+      "4 | Tip : PHA 0.000000000987"
+    ],
+    "output_expert": [
+      "0 | Balances : Set balance",
+      "1 | Who [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Who [2/2] : 64",
+      "2 | New free : PHA 0.000000000987",
+      "3 | New reserved : PHA 0.000055555555",
+      "4 | Chain : Khala",
+      "5 | Nonce : 2339",
+      "6 | Tip : PHA 0.000000000987",
+      "7 | Era Phase : 61",
+      "8 | Era Period : 64",
+      "9 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "9 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 11,
+    "name": "Balances_Force_transfer",
+    "blob": "28020068179b9ae3741bae4790201deb57a096f6855946a4ef2fd219c087eb963cf7e004297beecb87197bf24cabf83c9054b35aef4903648ed73e0dd503910103d20296499d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Balances : Force transfer",
+      "1 | Source [1/2] : 42yGkMhNHzUCVsNURVj56AsYhGzeCF3msn56Sw",
+      "1 | Source [2/2] : 7k8RzTJWda",
+      "2 | Dest [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "2 | Dest [2/2] : 64",
+      "3 | Amount : PHA 0.000055555555",
+      "4 | Tip : PHA 0.00123456789"
+    ],
+    "output_expert": [
+      "0 | Balances : Force transfer",
+      "1 | Source [1/2] : 42yGkMhNHzUCVsNURVj56AsYhGzeCF3msn56Sw",
+      "1 | Source [2/2] : 7k8RzTJWda",
+      "2 | Dest [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "2 | Dest [2/2] : 64",
+      "3 | Amount : PHA 0.000055555555",
+      "4 | Chain : Khala",
+      "5 | Nonce : 100",
+      "6 | Tip : PHA 0.00123456789",
+      "7 | Era Phase : 61",
+      "8 | Era Period : 64",
+      "9 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "9 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 12,
+    "name": "Balances_Force_transfer",
+    "blob": "280204297beecb87197bf24cabf83c9054b35aef4903640307326144f2eb32ae073e4dcd1e222acff9d38b73b52b38a78b60586a8834d9de03d2029649d50300009d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Balances : Force transfer",
+      "1 | Source [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Source [2/2] : 64",
+      "2 | Dest [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "2 | Dest [2/2] : 73b52b38a78b60586a8834d9de",
+      "3 | Amount : PHA 0.00123456789"
+    ],
+    "output_expert": [
+      "0 | Balances : Force transfer",
+      "1 | Source [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Source [2/2] : 64",
+      "2 | Dest [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "2 | Dest [2/2] : 73b52b38a78b60586a8834d9de",
+      "3 | Amount : PHA 0.00123456789",
+      "4 | Chain : Khala",
+      "5 | Nonce : 0",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 13,
+    "name": "Balances_Force_transfer",
+    "blob": "28020068179b9ae3741bae4790201deb57a096f6855946a4ef2fd219c087eb963cf7e00307326144f2eb32ae073e4dcd1e222acff9d38b73b52b38a78b60586a8834d9de00d5030033158139ae28a3dfaac5fe1560a5e9e05c9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Balances : Force transfer",
+      "1 | Source [1/2] : 42yGkMhNHzUCVsNURVj56AsYhGzeCF3msn56Sw",
+      "1 | Source [2/2] : 7k8RzTJWda",
+      "2 | Dest [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "2 | Dest [2/2] : 73b52b38a78b60586a8834d9de",
+      "3 | Amount : PHA 0.0",
+      "4 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "4 | Tip [2/2] : 456789"
+    ],
+    "output_expert": [
+      "0 | Balances : Force transfer",
+      "1 | Source [1/2] : 42yGkMhNHzUCVsNURVj56AsYhGzeCF3msn56Sw",
+      "1 | Source [2/2] : 7k8RzTJWda",
+      "2 | Dest [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "2 | Dest [2/2] : 73b52b38a78b60586a8834d9de",
+      "3 | Amount : PHA 0.0",
+      "4 | Chain : Khala",
+      "5 | Nonce : 0",
+      "6 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "6 | Tip [2/2] : 456789",
+      "7 | Era Phase : 61",
+      "8 | Era Period : 64",
+      "9 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "9 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 14,
+    "name": "Balances_Force_transfer",
+    "blob": "280204297beecb87197bf24cabf83c9054b35aef4903640307326144f2eb32ae073e4dcd1e222acff9d38b73b52b38a78b60586a8834d9de6d0fd503000b63ce64c10c059d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Balances : Force transfer",
+      "1 | Source [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Source [2/2] : 64",
+      "2 | Dest [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "2 | Dest [2/2] : 73b52b38a78b60586a8834d9de",
+      "3 | Amount : PHA 0.000000000987",
+      "4 | Tip : PHA 5.552342355555"
+    ],
+    "output_expert": [
+      "0 | Balances : Force transfer",
+      "1 | Source [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Source [2/2] : 64",
+      "2 | Dest [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "2 | Dest [2/2] : 73b52b38a78b60586a8834d9de",
+      "3 | Amount : PHA 0.000000000987",
+      "4 | Chain : Khala",
+      "5 | Nonce : 0",
+      "6 | Tip : PHA 5.552342355555",
+      "7 | Era Phase : 61",
+      "8 | Era Period : 64",
+      "9 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "9 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 15,
+    "name": "Balances_Force_transfer",
+    "blob": "28020068179b9ae3741bae4790201deb57a096f6855946a4ef2fd219c087eb963cf7e004297beecb87197bf24cabf83c9054b35aef49036433158139ae28a3dfaac5fe1560a5e9e05cd503910103d20296499d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Balances : Force transfer",
+      "1 | Source [1/2] : 42yGkMhNHzUCVsNURVj56AsYhGzeCF3msn56Sw",
+      "1 | Source [2/2] : 7k8RzTJWda",
+      "2 | Dest [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "2 | Dest [2/2] : 64",
+      "3 | Amount [1/2] : PHA 123456789012345678901234567.890123",
+      "3 | Amount [2/2] : 456789",
+      "4 | Tip : PHA 0.00123456789"
+    ],
+    "output_expert": [
+      "0 | Balances : Force transfer",
+      "1 | Source [1/2] : 42yGkMhNHzUCVsNURVj56AsYhGzeCF3msn56Sw",
+      "1 | Source [2/2] : 7k8RzTJWda",
+      "2 | Dest [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "2 | Dest [2/2] : 64",
+      "3 | Amount [1/2] : PHA 123456789012345678901234567.890123",
+      "3 | Amount [2/2] : 456789",
+      "4 | Chain : Khala",
+      "5 | Nonce : 100",
+      "6 | Tip : PHA 0.00123456789",
+      "7 | Era Phase : 61",
+      "8 | Era Period : 64",
+      "9 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "9 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 16,
+    "name": "Balances_Transfer_keep_alive",
+    "blob": "280304297beecb87197bf24cabf83c9054b35aef49036400d5038d248ed73e0d9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Balances : Transfer keep alive",
+      "1 | Dest [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Dest [2/2] : 64",
+      "2 | Amount : PHA 0.0",
+      "3 | Tip : PHA 0.000055555555"
+    ],
+    "output_expert": [
+      "0 | Balances : Transfer keep alive",
+      "1 | Dest [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Dest [2/2] : 64",
+      "2 | Amount : PHA 0.0",
+      "3 | Chain : Khala",
+      "4 | Nonce : 2339",
+      "5 | Tip : PHA 0.000055555555",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 17,
+    "name": "Balances_Transfer_keep_alive",
+    "blob": "280302809f84b2c54bd5dedbafc4ac67081664db176bfe2725ef7615b20e4194fc596a808ed73e0dd503ae1103006d0f9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Balances : Transfer keep alive",
+      "1 | Dest [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Dest [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Amount : PHA 0.000055555555",
+      "3 | Tip : PHA 0.000000000987"
+    ],
+    "output_expert": [
+      "0 | Balances : Transfer keep alive",
+      "1 | Dest [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Dest [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Amount : PHA 0.000055555555",
+      "3 | Chain : Khala",
+      "4 | Nonce : 50283",
+      "5 | Tip : PHA 0.000000000987",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 18,
+    "name": "Balances_Transfer_keep_alive",
+    "blob": "280304297beecb87197bf24cabf83c9054b35aef4903640b63ce64c10c05d50300009d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Balances : Transfer keep alive",
+      "1 | Dest [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Dest [2/2] : 64",
+      "2 | Amount : PHA 5.552342355555"
+    ],
+    "output_expert": [
+      "0 | Balances : Transfer keep alive",
+      "1 | Dest [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Dest [2/2] : 64",
+      "2 | Amount : PHA 5.552342355555",
+      "3 | Chain : Khala",
+      "4 | Nonce : 0",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 19,
+    "name": "Balances_Transfer_keep_alive",
+    "blob": "28030307326144f2eb32ae073e4dcd1e222acff9d38b73b52b38a78b60586a8834d9de8ed73e0dd5038d246d0f9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Balances : Transfer keep alive",
+      "1 | Dest [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Dest [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Amount : PHA 0.000055555555",
+      "3 | Tip : PHA 0.000000000987"
+    ],
+    "output_expert": [
+      "0 | Balances : Transfer keep alive",
+      "1 | Dest [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Dest [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Amount : PHA 0.000055555555",
+      "3 | Chain : Khala",
+      "4 | Nonce : 2339",
+      "5 | Tip : PHA 0.000000000987",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 20,
+    "name": "Balances_Transfer_keep_alive",
+    "blob": "280304297beecb87197bf24cabf83c9054b35aef49036403d2029649d503ae110300009d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Balances : Transfer keep alive",
+      "1 | Dest [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Dest [2/2] : 64",
+      "2 | Amount : PHA 0.00123456789"
+    ],
+    "output_expert": [
+      "0 | Balances : Transfer keep alive",
+      "1 | Dest [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Dest [2/2] : 64",
+      "2 | Amount : PHA 0.00123456789",
+      "3 | Chain : Khala",
+      "4 | Nonce : 50283",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 21,
+    "name": "Balances_Transfer_all",
+    "blob": "28040307326144f2eb32ae073e4dcd1e222acff9d38b73b52b38a78b60586a8834d9de01d503910103d20296499d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Balances : Transfer all",
+      "1 | Dest [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Dest [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Keep alive : True",
+      "3 | Tip : PHA 0.00123456789"
+    ],
+    "output_expert": [
+      "0 | Balances : Transfer all",
+      "1 | Dest [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Dest [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Keep alive : True",
+      "3 | Chain : Khala",
+      "4 | Nonce : 100",
+      "5 | Tip : PHA 0.00123456789",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 22,
+    "name": "Balances_Transfer_all",
+    "blob": "28040307326144f2eb32ae073e4dcd1e222acff9d38b73b52b38a78b60586a8834d9de01d5038d240b63ce64c10c059d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Balances : Transfer all",
+      "1 | Dest [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Dest [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Keep alive : True",
+      "3 | Tip : PHA 5.552342355555"
+    ],
+    "output_expert": [
+      "0 | Balances : Transfer all",
+      "1 | Dest [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Dest [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Keep alive : True",
+      "3 | Chain : Khala",
+      "4 | Nonce : 2339",
+      "5 | Tip : PHA 5.552342355555",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 23,
+    "name": "Balances_Transfer_all",
+    "blob": "280402809f84b2c54bd5dedbafc4ac67081664db176bfe2725ef7615b20e4194fc596a8001d5038d248ed73e0d9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Balances : Transfer all",
+      "1 | Dest [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Dest [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Keep alive : True",
+      "3 | Tip : PHA 0.000055555555"
+    ],
+    "output_expert": [
+      "0 | Balances : Transfer all",
+      "1 | Dest [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Dest [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Keep alive : True",
+      "3 | Chain : Khala",
+      "4 | Nonce : 2339",
+      "5 | Tip : PHA 0.000055555555",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 24,
+    "name": "Balances_Transfer_all",
+    "blob": "28040307326144f2eb32ae073e4dcd1e222acff9d38b73b52b38a78b60586a8834d9de01d503048ed73e0d9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Balances : Transfer all",
+      "1 | Dest [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Dest [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Keep alive : True",
+      "3 | Tip : PHA 0.000055555555"
+    ],
+    "output_expert": [
+      "0 | Balances : Transfer all",
+      "1 | Dest [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Dest [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Keep alive : True",
+      "3 | Chain : Khala",
+      "4 | Nonce : 1",
+      "5 | Tip : PHA 0.000055555555",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 25,
+    "name": "Balances_Transfer_all",
+    "blob": "28040307326144f2eb32ae073e4dcd1e222acff9d38b73b52b38a78b60586a8834d9de00d503006d0f9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Balances : Transfer all",
+      "1 | Dest [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Dest [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Keep alive : False",
+      "3 | Tip : PHA 0.000000000987"
+    ],
+    "output_expert": [
+      "0 | Balances : Transfer all",
+      "1 | Dest [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Dest [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Keep alive : False",
+      "3 | Chain : Khala",
+      "4 | Nonce : 0",
+      "5 | Tip : PHA 0.000000000987",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 26,
+    "name": "Balances_Force_unreserve",
+    "blob": "280502809f84b2c54bd5dedbafc4ac67081664db176bfe2725ef7615b20e4194fc596a80513c0e32123c2ef56fd9775fdc13fd9ed5039101009d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Balances : Force unreserve",
+      "1 | Who [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Who [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Amount [1/2] : PHA 211332077264750206753056478.405514",
+      "2 | Amount [2/2] : 378321"
+    ],
+    "output_expert": [
+      "0 | Balances : Force unreserve",
+      "1 | Who [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Who [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Amount [1/2] : PHA 211332077264750206753056478.405514",
+      "2 | Amount [2/2] : 378321",
+      "3 | Chain : Khala",
+      "4 | Nonce : 100",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 27,
+    "name": "Balances_Force_unreserve",
+    "blob": "280502809f84b2c54bd5dedbafc4ac67081664db176bfe2725ef7615b20e4194fc596a80513c0e32123c2ef56fd9775fdc13fd9ed50391016d0f9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Balances : Force unreserve",
+      "1 | Who [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Who [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Amount [1/2] : PHA 211332077264750206753056478.405514",
+      "2 | Amount [2/2] : 378321",
+      "3 | Tip : PHA 0.000000000987"
+    ],
+    "output_expert": [
+      "0 | Balances : Force unreserve",
+      "1 | Who [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Who [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Amount [1/2] : PHA 211332077264750206753056478.405514",
+      "2 | Amount [2/2] : 378321",
+      "3 | Chain : Khala",
+      "4 | Nonce : 100",
+      "5 | Tip : PHA 0.000000000987",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 28,
+    "name": "Balances_Force_unreserve",
+    "blob": "280504297beecb87197bf24cabf83c9054b35aef490364513c0e32123c2ef56fd9775fdc13fd9ed5038d24009d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Balances : Force unreserve",
+      "1 | Who [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Who [2/2] : 64",
+      "2 | Amount [1/2] : PHA 211332077264750206753056478.405514",
+      "2 | Amount [2/2] : 378321"
+    ],
+    "output_expert": [
+      "0 | Balances : Force unreserve",
+      "1 | Who [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Who [2/2] : 64",
+      "2 | Amount [1/2] : PHA 211332077264750206753056478.405514",
+      "2 | Amount [2/2] : 378321",
+      "3 | Chain : Khala",
+      "4 | Nonce : 2339",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 29,
+    "name": "Balances_Force_unreserve",
+    "blob": "28050068179b9ae3741bae4790201deb57a096f6855946a4ef2fd219c087eb963cf7e0513c0e32123c2ef56fd9775fdc13fd9ed5038d248ed73e0d9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Balances : Force unreserve",
+      "1 | Who [1/2] : 42yGkMhNHzUCVsNURVj56AsYhGzeCF3msn56Sw",
+      "1 | Who [2/2] : 7k8RzTJWda",
+      "2 | Amount [1/2] : PHA 211332077264750206753056478.405514",
+      "2 | Amount [2/2] : 378321",
+      "3 | Tip : PHA 0.000055555555"
+    ],
+    "output_expert": [
+      "0 | Balances : Force unreserve",
+      "1 | Who [1/2] : 42yGkMhNHzUCVsNURVj56AsYhGzeCF3msn56Sw",
+      "1 | Who [2/2] : 7k8RzTJWda",
+      "2 | Amount [1/2] : PHA 211332077264750206753056478.405514",
+      "2 | Amount [2/2] : 378321",
+      "3 | Chain : Khala",
+      "4 | Nonce : 2339",
+      "5 | Tip : PHA 0.000055555555",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 30,
+    "name": "Balances_Force_unreserve",
+    "blob": "28050307326144f2eb32ae073e4dcd1e222acff9d38b73b52b38a78b60586a8834d9de513c0e32123c2ef56fd9775fdc13fd9ed5039101009d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Balances : Force unreserve",
+      "1 | Who [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Who [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Amount [1/2] : PHA 211332077264750206753056478.405514",
+      "2 | Amount [2/2] : 378321"
+    ],
+    "output_expert": [
+      "0 | Balances : Force unreserve",
+      "1 | Who [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Who [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Amount [1/2] : PHA 211332077264750206753056478.405514",
+      "2 | Amount [2/2] : 378321",
+      "3 | Chain : Khala",
+      "4 | Nonce : 100",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 31,
+    "name": "Proxy_Proxy",
+    "blob": "05000307326144f2eb32ae073e4dcd1e222acff9d38b73b52b38a78b60586a8834d9de010000002c000000d503040b63ce64c10c059d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Proxy",
+      "1 | Real [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Real [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Force proxy type : Any",
+      "3 | Call [1/2] : Fill block",
+      "3 | Call [2/2] : 0.0000044%",
+      "4 | Tip : PHA 5.552342355555"
+    ],
+    "output_expert": [
+      "0 | Proxy : Proxy",
+      "1 | Real [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Real [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Force proxy type : Any",
+      "3 | Call [1/2] : Fill block",
+      "3 | Call [2/2] : 0.0000044%",
+      "4 | Chain : Khala",
+      "5 | Nonce : 1",
+      "6 | Tip : PHA 5.552342355555",
+      "7 | Era Phase : 61",
+      "8 | Era Period : 64",
+      "9 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "9 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 32,
+    "name": "Proxy_Proxy",
+    "blob": "05000307326144f2eb32ae073e4dcd1e222acff9d38b73b52b38a78b60586a8834d9de010400002c000000d5038d246d0f9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Proxy",
+      "1 | Real [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Real [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Force proxy type : Collator",
+      "3 | Call [1/2] : Fill block",
+      "3 | Call [2/2] : 0.0000044%",
+      "4 | Tip : PHA 0.000000000987"
+    ],
+    "output_expert": [
+      "0 | Proxy : Proxy",
+      "1 | Real [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Real [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Force proxy type : Collator",
+      "3 | Call [1/2] : Fill block",
+      "3 | Call [2/2] : 0.0000044%",
+      "4 | Chain : Khala",
+      "5 | Nonce : 2339",
+      "6 | Tip : PHA 0.000000000987",
+      "7 | Era Phase : 61",
+      "8 | Era Period : 64",
+      "9 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "9 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 33,
+    "name": "Proxy_Proxy",
+    "blob": "05000307326144f2eb32ae073e4dcd1e222acff9d38b73b52b38a78b60586a8834d9de010300002c000000d50300009d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Proxy",
+      "1 | Real [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Real [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Force proxy type : Governance",
+      "3 | Call [1/2] : Fill block",
+      "3 | Call [2/2] : 0.0000044%"
+    ],
+    "output_expert": [
+      "0 | Proxy : Proxy",
+      "1 | Real [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Real [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Force proxy type : Governance",
+      "3 | Call [1/2] : Fill block",
+      "3 | Call [2/2] : 0.0000044%",
+      "4 | Chain : Khala",
+      "5 | Nonce : 0",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 34,
+    "name": "Proxy_Proxy",
+    "blob": "050002809f84b2c54bd5dedbafc4ac67081664db176bfe2725ef7615b20e4194fc596a80010500002c000000d5030033158139ae28a3dfaac5fe1560a5e9e05c9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Proxy",
+      "1 | Real [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Real [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Force proxy type : StakePoolManager",
+      "3 | Call [1/2] : Fill block",
+      "3 | Call [2/2] : 0.0000044%",
+      "4 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "4 | Tip [2/2] : 456789"
+    ],
+    "output_expert": [
+      "0 | Proxy : Proxy",
+      "1 | Real [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Real [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Force proxy type : StakePoolManager",
+      "3 | Call [1/2] : Fill block",
+      "3 | Call [2/2] : 0.0000044%",
+      "4 | Chain : Khala",
+      "5 | Nonce : 0",
+      "6 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "6 | Tip [2/2] : 456789",
+      "7 | Era Phase : 61",
+      "8 | Era Period : 64",
+      "9 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "9 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 35,
+    "name": "Proxy_Proxy",
+    "blob": "05000307326144f2eb32ae073e4dcd1e222acff9d38b73b52b38a78b60586a8834d9de010500002c000000d503ae11030003d20296499d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Proxy",
+      "1 | Real [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Real [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Force proxy type : StakePoolManager",
+      "3 | Call [1/2] : Fill block",
+      "3 | Call [2/2] : 0.0000044%",
+      "4 | Tip : PHA 0.00123456789"
+    ],
+    "output_expert": [
+      "0 | Proxy : Proxy",
+      "1 | Real [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Real [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Force proxy type : StakePoolManager",
+      "3 | Call [1/2] : Fill block",
+      "3 | Call [2/2] : 0.0000044%",
+      "4 | Chain : Khala",
+      "5 | Nonce : 50283",
+      "6 | Tip : PHA 0.00123456789",
+      "7 | Era Phase : 61",
+      "8 | Era Period : 64",
+      "9 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "9 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 36,
+    "name": "Proxy_Add_proxy",
+    "blob": "050102809f84b2c54bd5dedbafc4ac67081664db176bfe2725ef7615b20e4194fc596a8002ac350000d503000b63ce64c10c059d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Add proxy",
+      "1 | Delegate [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Delegate [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Proxy type : CancelProxy",
+      "3 | Delay : 13740",
+      "4 | Tip : PHA 5.552342355555"
+    ],
+    "output_expert": [
+      "0 | Proxy : Add proxy",
+      "1 | Delegate [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Delegate [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Proxy type : CancelProxy",
+      "3 | Delay : 13740",
+      "4 | Chain : Khala",
+      "5 | Nonce : 0",
+      "6 | Tip : PHA 5.552342355555",
+      "7 | Era Phase : 61",
+      "8 | Era Period : 64",
+      "9 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "9 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 37,
+    "name": "Proxy_Add_proxy",
+    "blob": "05010307326144f2eb32ae073e4dcd1e222acff9d38b73b52b38a78b60586a8834d9de0400000000d50391018ed73e0d9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Add proxy",
+      "1 | Delegate [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Delegate [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Proxy type : Collator",
+      "3 | Delay : 0",
+      "4 | Tip : PHA 0.000055555555"
+    ],
+    "output_expert": [
+      "0 | Proxy : Add proxy",
+      "1 | Delegate [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Delegate [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Proxy type : Collator",
+      "3 | Delay : 0",
+      "4 | Chain : Khala",
+      "5 | Nonce : 100",
+      "6 | Tip : PHA 0.000055555555",
+      "7 | Era Phase : 61",
+      "8 | Era Period : 64",
+      "9 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "9 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 38,
+    "name": "Proxy_Add_proxy",
+    "blob": "05010068179b9ae3741bae4790201deb57a096f6855946a4ef2fd219c087eb963cf7e0017b000000d50300009d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Add proxy",
+      "1 | Delegate [1/2] : 42yGkMhNHzUCVsNURVj56AsYhGzeCF3msn56Sw",
+      "1 | Delegate [2/2] : 7k8RzTJWda",
+      "2 | Proxy type : NonTransfer",
+      "3 | Delay : 123"
+    ],
+    "output_expert": [
+      "0 | Proxy : Add proxy",
+      "1 | Delegate [1/2] : 42yGkMhNHzUCVsNURVj56AsYhGzeCF3msn56Sw",
+      "1 | Delegate [2/2] : 7k8RzTJWda",
+      "2 | Proxy type : NonTransfer",
+      "3 | Delay : 123",
+      "4 | Chain : Khala",
+      "5 | Nonce : 0",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 39,
+    "name": "Proxy_Add_proxy",
+    "blob": "05010068179b9ae3741bae4790201deb57a096f6855946a4ef2fd219c087eb963cf7e00101000000d503ae1103006d0f9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Add proxy",
+      "1 | Delegate [1/2] : 42yGkMhNHzUCVsNURVj56AsYhGzeCF3msn56Sw",
+      "1 | Delegate [2/2] : 7k8RzTJWda",
+      "2 | Proxy type : NonTransfer",
+      "3 | Delay : 1",
+      "4 | Tip : PHA 0.000000000987"
+    ],
+    "output_expert": [
+      "0 | Proxy : Add proxy",
+      "1 | Delegate [1/2] : 42yGkMhNHzUCVsNURVj56AsYhGzeCF3msn56Sw",
+      "1 | Delegate [2/2] : 7k8RzTJWda",
+      "2 | Proxy type : NonTransfer",
+      "3 | Delay : 1",
+      "4 | Chain : Khala",
+      "5 | Nonce : 50283",
+      "6 | Tip : PHA 0.000000000987",
+      "7 | Era Phase : 61",
+      "8 | Era Period : 64",
+      "9 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "9 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 40,
+    "name": "Proxy_Add_proxy",
+    "blob": "050102809f84b2c54bd5dedbafc4ac67081664db176bfe2725ef7615b20e4194fc596a8003ff030000d5038d2433158139ae28a3dfaac5fe1560a5e9e05c9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Add proxy",
+      "1 | Delegate [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Delegate [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Proxy type : Governance",
+      "3 | Delay : 1023",
+      "4 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "4 | Tip [2/2] : 456789"
+    ],
+    "output_expert": [
+      "0 | Proxy : Add proxy",
+      "1 | Delegate [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Delegate [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Proxy type : Governance",
+      "3 | Delay : 1023",
+      "4 | Chain : Khala",
+      "5 | Nonce : 2339",
+      "6 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "6 | Tip [2/2] : 456789",
+      "7 | Era Phase : 61",
+      "8 | Era Period : 64",
+      "9 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "9 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 41,
+    "name": "Proxy_Remove_proxy",
+    "blob": "05020307326144f2eb32ae073e4dcd1e222acff9d38b73b52b38a78b60586a8834d9de027b000000d5038d2433158139ae28a3dfaac5fe1560a5e9e05c9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Remove proxy",
+      "1 | Delegate [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Delegate [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Proxy type : CancelProxy",
+      "3 | Delay : 123",
+      "4 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "4 | Tip [2/2] : 456789"
+    ],
+    "output_expert": [
+      "0 | Proxy : Remove proxy",
+      "1 | Delegate [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Delegate [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Proxy type : CancelProxy",
+      "3 | Delay : 123",
+      "4 | Chain : Khala",
+      "5 | Nonce : 2339",
+      "6 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "6 | Tip [2/2] : 456789",
+      "7 | Era Phase : 61",
+      "8 | Era Period : 64",
+      "9 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "9 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 42,
+    "name": "Proxy_Remove_proxy",
+    "blob": "05020307326144f2eb32ae073e4dcd1e222acff9d38b73b52b38a78b60586a8834d9de01ff030000d503008ed73e0d9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Remove proxy",
+      "1 | Delegate [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Delegate [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Proxy type : NonTransfer",
+      "3 | Delay : 1023",
+      "4 | Tip : PHA 0.000055555555"
+    ],
+    "output_expert": [
+      "0 | Proxy : Remove proxy",
+      "1 | Delegate [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Delegate [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Proxy type : NonTransfer",
+      "3 | Delay : 1023",
+      "4 | Chain : Khala",
+      "5 | Nonce : 0",
+      "6 | Tip : PHA 0.000055555555",
+      "7 | Era Phase : 61",
+      "8 | Era Period : 64",
+      "9 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "9 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 43,
+    "name": "Proxy_Remove_proxy",
+    "blob": "050204297beecb87197bf24cabf83c9054b35aef490364047b000000d5038d248ed73e0d9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Remove proxy",
+      "1 | Delegate [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Delegate [2/2] : 64",
+      "2 | Proxy type : Collator",
+      "3 | Delay : 123",
+      "4 | Tip : PHA 0.000055555555"
+    ],
+    "output_expert": [
+      "0 | Proxy : Remove proxy",
+      "1 | Delegate [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Delegate [2/2] : 64",
+      "2 | Proxy type : Collator",
+      "3 | Delay : 123",
+      "4 | Chain : Khala",
+      "5 | Nonce : 2339",
+      "6 | Tip : PHA 0.000055555555",
+      "7 | Era Phase : 61",
+      "8 | Era Period : 64",
+      "9 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "9 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 44,
+    "name": "Proxy_Remove_proxy",
+    "blob": "050204297beecb87197bf24cabf83c9054b35aef4903640201000000d503910133158139ae28a3dfaac5fe1560a5e9e05c9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Remove proxy",
+      "1 | Delegate [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Delegate [2/2] : 64",
+      "2 | Proxy type : CancelProxy",
+      "3 | Delay : 1",
+      "4 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "4 | Tip [2/2] : 456789"
+    ],
+    "output_expert": [
+      "0 | Proxy : Remove proxy",
+      "1 | Delegate [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Delegate [2/2] : 64",
+      "2 | Proxy type : CancelProxy",
+      "3 | Delay : 1",
+      "4 | Chain : Khala",
+      "5 | Nonce : 100",
+      "6 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "6 | Tip [2/2] : 456789",
+      "7 | Era Phase : 61",
+      "8 | Era Period : 64",
+      "9 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "9 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 45,
+    "name": "Proxy_Remove_proxy",
+    "blob": "05020068179b9ae3741bae4790201deb57a096f6855946a4ef2fd219c087eb963cf7e00225010000d503048ed73e0d9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Remove proxy",
+      "1 | Delegate [1/2] : 42yGkMhNHzUCVsNURVj56AsYhGzeCF3msn56Sw",
+      "1 | Delegate [2/2] : 7k8RzTJWda",
+      "2 | Proxy type : CancelProxy",
+      "3 | Delay : 293",
+      "4 | Tip : PHA 0.000055555555"
+    ],
+    "output_expert": [
+      "0 | Proxy : Remove proxy",
+      "1 | Delegate [1/2] : 42yGkMhNHzUCVsNURVj56AsYhGzeCF3msn56Sw",
+      "1 | Delegate [2/2] : 7k8RzTJWda",
+      "2 | Proxy type : CancelProxy",
+      "3 | Delay : 293",
+      "4 | Chain : Khala",
+      "5 | Nonce : 1",
+      "6 | Tip : PHA 0.000055555555",
+      "7 | Era Phase : 61",
+      "8 | Era Period : 64",
+      "9 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "9 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 46,
+    "name": "Proxy_Remove_proxies",
+    "blob": "0503d503046d0f9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Remove proxies",
+      "1 | Tip : PHA 0.000000000987"
+    ],
+    "output_expert": [
+      "0 | Proxy : Remove proxies",
+      "1 | Chain : Khala",
+      "2 | Nonce : 1",
+      "3 | Tip : PHA 0.000000000987",
+      "4 | Era Phase : 61",
+      "5 | Era Period : 64",
+      "6 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "6 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 47,
+    "name": "Proxy_Remove_proxies",
+    "blob": "0503d503008ed73e0d9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Remove proxies",
+      "1 | Tip : PHA 0.000055555555"
+    ],
+    "output_expert": [
+      "0 | Proxy : Remove proxies",
+      "1 | Chain : Khala",
+      "2 | Nonce : 0",
+      "3 | Tip : PHA 0.000055555555",
+      "4 | Era Phase : 61",
+      "5 | Era Period : 64",
+      "6 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "6 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 48,
+    "name": "Proxy_Remove_proxies",
+    "blob": "0503d503910133158139ae28a3dfaac5fe1560a5e9e05c9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Remove proxies",
+      "1 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "1 | Tip [2/2] : 456789"
+    ],
+    "output_expert": [
+      "0 | Proxy : Remove proxies",
+      "1 | Chain : Khala",
+      "2 | Nonce : 100",
+      "3 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "3 | Tip [2/2] : 456789",
+      "4 | Era Phase : 61",
+      "5 | Era Period : 64",
+      "6 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "6 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 49,
+    "name": "Proxy_Remove_proxies",
+    "blob": "0503d5038d24009d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Remove proxies"
+    ],
+    "output_expert": [
+      "0 | Proxy : Remove proxies",
+      "1 | Chain : Khala",
+      "2 | Nonce : 2339",
+      "3 | Era Phase : 61",
+      "4 | Era Period : 64",
+      "5 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "5 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 50,
+    "name": "Proxy_Remove_proxies",
+    "blob": "0503d503006d0f9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Remove proxies",
+      "1 | Tip : PHA 0.000000000987"
+    ],
+    "output_expert": [
+      "0 | Proxy : Remove proxies",
+      "1 | Chain : Khala",
+      "2 | Nonce : 0",
+      "3 | Tip : PHA 0.000000000987",
+      "4 | Era Phase : 61",
+      "5 | Era Period : 64",
+      "6 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "6 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 51,
+    "name": "Proxy_Anonymous",
+    "blob": "050404000000005c00d503ae110300009d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Anonymous",
+      "1 | Proxy type : Collator",
+      "2 | Delay : 0",
+      "3 | Index : 92"
+    ],
+    "output_expert": [
+      "0 | Proxy : Anonymous",
+      "1 | Proxy type : Collator",
+      "2 | Delay : 0",
+      "3 | Index : 92",
+      "4 | Chain : Khala",
+      "5 | Nonce : 50283",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 52,
+    "name": "Proxy_Anonymous",
+    "blob": "050402b3e301000100d5039101009d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Anonymous",
+      "1 | Proxy type : CancelProxy",
+      "2 | Delay : 123827",
+      "3 | Index : 1"
+    ],
+    "output_expert": [
+      "0 | Proxy : Anonymous",
+      "1 | Proxy type : CancelProxy",
+      "2 | Delay : 123827",
+      "3 | Index : 1",
+      "4 | Chain : Khala",
+      "5 | Nonce : 100",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 53,
+    "name": "Proxy_Anonymous",
+    "blob": "050400000000002c01d503ae11030033158139ae28a3dfaac5fe1560a5e9e05c9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Anonymous",
+      "1 | Proxy type : Any",
+      "2 | Delay : 0",
+      "3 | Index : 300",
+      "4 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "4 | Tip [2/2] : 456789"
+    ],
+    "output_expert": [
+      "0 | Proxy : Anonymous",
+      "1 | Proxy type : Any",
+      "2 | Delay : 0",
+      "3 | Index : 300",
+      "4 | Chain : Khala",
+      "5 | Nonce : 50283",
+      "6 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "6 | Tip [2/2] : 456789",
+      "7 | Era Phase : 61",
+      "8 | Era Period : 64",
+      "9 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "9 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 54,
+    "name": "Proxy_Anonymous",
+    "blob": "050401b3e301000100d50391018ed73e0d9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Anonymous",
+      "1 | Proxy type : NonTransfer",
+      "2 | Delay : 123827",
+      "3 | Index : 1",
+      "4 | Tip : PHA 0.000055555555"
+    ],
+    "output_expert": [
+      "0 | Proxy : Anonymous",
+      "1 | Proxy type : NonTransfer",
+      "2 | Delay : 123827",
+      "3 | Index : 1",
+      "4 | Chain : Khala",
+      "5 | Nonce : 100",
+      "6 | Tip : PHA 0.000055555555",
+      "7 | Era Phase : 61",
+      "8 | Era Period : 64",
+      "9 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "9 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 55,
+    "name": "Proxy_Anonymous",
+    "blob": "050402b3e301000100d503ae1103000b63ce64c10c059d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Anonymous",
+      "1 | Proxy type : CancelProxy",
+      "2 | Delay : 123827",
+      "3 | Index : 1",
+      "4 | Tip : PHA 5.552342355555"
+    ],
+    "output_expert": [
+      "0 | Proxy : Anonymous",
+      "1 | Proxy type : CancelProxy",
+      "2 | Delay : 123827",
+      "3 | Index : 1",
+      "4 | Chain : Khala",
+      "5 | Nonce : 50283",
+      "6 | Tip : PHA 5.552342355555",
+      "7 | Era Phase : 61",
+      "8 | Era Period : 64",
+      "9 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "9 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 56,
+    "name": "Proxy_Kill_anonymous",
+    "blob": "050504297beecb87197bf24cabf83c9054b35aef490364002c01da598c03dab8af23d5038d246d0f9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Kill anonymous",
+      "1 | Spawner [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Spawner [2/2] : 64",
+      "2 | Proxy type : Any",
+      "3 | Index : 300",
+      "4 | Height : 14882422",
+      "5 | Ext index : 149679670",
+      "6 | Tip : PHA 0.000000000987"
+    ],
+    "output_expert": [
+      "0 | Proxy : Kill anonymous",
+      "1 | Spawner [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Spawner [2/2] : 64",
+      "2 | Proxy type : Any",
+      "3 | Index : 300",
+      "4 | Height : 14882422",
+      "5 | Ext index : 149679670",
+      "6 | Chain : Khala",
+      "7 | Nonce : 2339",
+      "8 | Tip : PHA 0.000000000987",
+      "9 | Era Phase : 61",
+      "10 | Era Period : 64",
+      "11 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "11 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 57,
+    "name": "Proxy_Kill_anonymous",
+    "blob": "050502809f84b2c54bd5dedbafc4ac67081664db176bfe2725ef7615b20e4194fc596a80030100da598c03da598c03d5030003d20296499d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Kill anonymous",
+      "1 | Spawner [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Spawner [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Proxy type : Governance",
+      "3 | Index : 1",
+      "4 | Height : 14882422",
+      "5 | Ext index : 14882422",
+      "6 | Tip : PHA 0.00123456789"
+    ],
+    "output_expert": [
+      "0 | Proxy : Kill anonymous",
+      "1 | Spawner [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Spawner [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Proxy type : Governance",
+      "3 | Index : 1",
+      "4 | Height : 14882422",
+      "5 | Ext index : 14882422",
+      "6 | Chain : Khala",
+      "7 | Nonce : 0",
+      "8 | Tip : PHA 0.00123456789",
+      "9 | Era Phase : 61",
+      "10 | Era Period : 64",
+      "11 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "11 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 58,
+    "name": "Proxy_Kill_anonymous",
+    "blob": "05050307326144f2eb32ae073e4dcd1e222acff9d38b73b52b38a78b60586a8834d9de025c00f4ee6e2d01d5030433158139ae28a3dfaac5fe1560a5e9e05c9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Kill anonymous",
+      "1 | Spawner [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Spawner [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Proxy type : CancelProxy",
+      "3 | Index : 92",
+      "4 | Height : 61",
+      "5 | Ext index : 4938683",
+      "6 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "6 | Tip [2/2] : 456789"
+    ],
+    "output_expert": [
+      "0 | Proxy : Kill anonymous",
+      "1 | Spawner [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Spawner [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Proxy type : CancelProxy",
+      "3 | Index : 92",
+      "4 | Height : 61",
+      "5 | Ext index : 4938683",
+      "6 | Chain : Khala",
+      "7 | Nonce : 1",
+      "8 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "8 | Tip [2/2] : 456789",
+      "9 | Era Phase : 61",
+      "10 | Era Period : 64",
+      "11 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "11 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 59,
+    "name": "Proxy_Kill_anonymous",
+    "blob": "05050068179b9ae3741bae4790201deb57a096f6855946a4ef2fd219c087eb963cf7e0025c00da598c03dab8af23d503ae1103008ed73e0d9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Kill anonymous",
+      "1 | Spawner [1/2] : 42yGkMhNHzUCVsNURVj56AsYhGzeCF3msn56Sw",
+      "1 | Spawner [2/2] : 7k8RzTJWda",
+      "2 | Proxy type : CancelProxy",
+      "3 | Index : 92",
+      "4 | Height : 14882422",
+      "5 | Ext index : 149679670",
+      "6 | Tip : PHA 0.000055555555"
+    ],
+    "output_expert": [
+      "0 | Proxy : Kill anonymous",
+      "1 | Spawner [1/2] : 42yGkMhNHzUCVsNURVj56AsYhGzeCF3msn56Sw",
+      "1 | Spawner [2/2] : 7k8RzTJWda",
+      "2 | Proxy type : CancelProxy",
+      "3 | Index : 92",
+      "4 | Height : 14882422",
+      "5 | Ext index : 149679670",
+      "6 | Chain : Khala",
+      "7 | Nonce : 50283",
+      "8 | Tip : PHA 0.000055555555",
+      "9 | Era Phase : 61",
+      "10 | Era Period : 64",
+      "11 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "11 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 60,
+    "name": "Proxy_Kill_anonymous",
+    "blob": "050502809f84b2c54bd5dedbafc4ac67081664db176bfe2725ef7615b20e4194fc596a80022c01da598c03dab8af23d5038d240b63ce64c10c059d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Kill anonymous",
+      "1 | Spawner [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Spawner [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Proxy type : CancelProxy",
+      "3 | Index : 300",
+      "4 | Height : 14882422",
+      "5 | Ext index : 149679670",
+      "6 | Tip : PHA 5.552342355555"
+    ],
+    "output_expert": [
+      "0 | Proxy : Kill anonymous",
+      "1 | Spawner [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Spawner [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Proxy type : CancelProxy",
+      "3 | Index : 300",
+      "4 | Height : 14882422",
+      "5 | Ext index : 149679670",
+      "6 | Chain : Khala",
+      "7 | Nonce : 2339",
+      "8 | Tip : PHA 5.552342355555",
+      "9 | Era Phase : 61",
+      "10 | Era Period : 64",
+      "11 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "11 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 61,
+    "name": "Proxy_Announce",
+    "blob": "05060068179b9ae3741bae4790201deb57a096f6855946a4ef2fd219c087eb963cf7e0d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd50300009d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Announce",
+      "1 | Real [1/2] : 42yGkMhNHzUCVsNURVj56AsYhGzeCF3msn56Sw",
+      "1 | Real [2/2] : 7k8RzTJWda",
+      "2 | Call hash [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "2 | Call hash [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ],
+    "output_expert": [
+      "0 | Proxy : Announce",
+      "1 | Real [1/2] : 42yGkMhNHzUCVsNURVj56AsYhGzeCF3msn56Sw",
+      "1 | Real [2/2] : 7k8RzTJWda",
+      "2 | Call hash [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "2 | Call hash [2/2] : 603cbbfc7a86a73b72adb3be8d",
+      "3 | Chain : Khala",
+      "4 | Nonce : 0",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 62,
+    "name": "Proxy_Announce",
+    "blob": "05060068179b9ae3741bae4790201deb57a096f6855946a4ef2fd219c087eb963cf7e0d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd503ae11030003d20296499d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Announce",
+      "1 | Real [1/2] : 42yGkMhNHzUCVsNURVj56AsYhGzeCF3msn56Sw",
+      "1 | Real [2/2] : 7k8RzTJWda",
+      "2 | Call hash [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "2 | Call hash [2/2] : 603cbbfc7a86a73b72adb3be8d",
+      "3 | Tip : PHA 0.00123456789"
+    ],
+    "output_expert": [
+      "0 | Proxy : Announce",
+      "1 | Real [1/2] : 42yGkMhNHzUCVsNURVj56AsYhGzeCF3msn56Sw",
+      "1 | Real [2/2] : 7k8RzTJWda",
+      "2 | Call hash [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "2 | Call hash [2/2] : 603cbbfc7a86a73b72adb3be8d",
+      "3 | Chain : Khala",
+      "4 | Nonce : 50283",
+      "5 | Tip : PHA 0.00123456789",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 63,
+    "name": "Proxy_Announce",
+    "blob": "05060068179b9ae3741bae4790201deb57a096f6855946a4ef2fd219c087eb963cf7e0d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd50391010b63ce64c10c059d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Announce",
+      "1 | Real [1/2] : 42yGkMhNHzUCVsNURVj56AsYhGzeCF3msn56Sw",
+      "1 | Real [2/2] : 7k8RzTJWda",
+      "2 | Call hash [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "2 | Call hash [2/2] : 603cbbfc7a86a73b72adb3be8d",
+      "3 | Tip : PHA 5.552342355555"
+    ],
+    "output_expert": [
+      "0 | Proxy : Announce",
+      "1 | Real [1/2] : 42yGkMhNHzUCVsNURVj56AsYhGzeCF3msn56Sw",
+      "1 | Real [2/2] : 7k8RzTJWda",
+      "2 | Call hash [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "2 | Call hash [2/2] : 603cbbfc7a86a73b72adb3be8d",
+      "3 | Chain : Khala",
+      "4 | Nonce : 100",
+      "5 | Tip : PHA 5.552342355555",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 64,
+    "name": "Proxy_Announce",
+    "blob": "050602809f84b2c54bd5dedbafc4ac67081664db176bfe2725ef7615b20e4194fc596a80d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd503ae11030033158139ae28a3dfaac5fe1560a5e9e05c9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Announce",
+      "1 | Real [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Real [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Call hash [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "2 | Call hash [2/2] : 603cbbfc7a86a73b72adb3be8d",
+      "3 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "3 | Tip [2/2] : 456789"
+    ],
+    "output_expert": [
+      "0 | Proxy : Announce",
+      "1 | Real [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Real [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Call hash [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "2 | Call hash [2/2] : 603cbbfc7a86a73b72adb3be8d",
+      "3 | Chain : Khala",
+      "4 | Nonce : 50283",
+      "5 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "5 | Tip [2/2] : 456789",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 65,
+    "name": "Proxy_Announce",
+    "blob": "050602809f84b2c54bd5dedbafc4ac67081664db176bfe2725ef7615b20e4194fc596a80d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd5038d240b63ce64c10c059d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Announce",
+      "1 | Real [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Real [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Call hash [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "2 | Call hash [2/2] : 603cbbfc7a86a73b72adb3be8d",
+      "3 | Tip : PHA 5.552342355555"
+    ],
+    "output_expert": [
+      "0 | Proxy : Announce",
+      "1 | Real [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Real [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Call hash [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "2 | Call hash [2/2] : 603cbbfc7a86a73b72adb3be8d",
+      "3 | Chain : Khala",
+      "4 | Nonce : 2339",
+      "5 | Tip : PHA 5.552342355555",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 66,
+    "name": "Proxy_Remove_announcement",
+    "blob": "050704297beecb87197bf24cabf83c9054b35aef490364d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd50391018ed73e0d9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Remove announcement",
+      "1 | Real [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Real [2/2] : 64",
+      "2 | Call hash [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "2 | Call hash [2/2] : 603cbbfc7a86a73b72adb3be8d",
+      "3 | Tip : PHA 0.000055555555"
+    ],
+    "output_expert": [
+      "0 | Proxy : Remove announcement",
+      "1 | Real [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Real [2/2] : 64",
+      "2 | Call hash [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "2 | Call hash [2/2] : 603cbbfc7a86a73b72adb3be8d",
+      "3 | Chain : Khala",
+      "4 | Nonce : 100",
+      "5 | Tip : PHA 0.000055555555",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 67,
+    "name": "Proxy_Remove_announcement",
+    "blob": "05070307326144f2eb32ae073e4dcd1e222acff9d38b73b52b38a78b60586a8834d9ded43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd503ae1103008ed73e0d9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Remove announcement",
+      "1 | Real [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Real [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Call hash [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "2 | Call hash [2/2] : 603cbbfc7a86a73b72adb3be8d",
+      "3 | Tip : PHA 0.000055555555"
+    ],
+    "output_expert": [
+      "0 | Proxy : Remove announcement",
+      "1 | Real [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Real [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Call hash [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "2 | Call hash [2/2] : 603cbbfc7a86a73b72adb3be8d",
+      "3 | Chain : Khala",
+      "4 | Nonce : 50283",
+      "5 | Tip : PHA 0.000055555555",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 68,
+    "name": "Proxy_Remove_announcement",
+    "blob": "050704297beecb87197bf24cabf83c9054b35aef490364d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd5030403d20296499d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Remove announcement",
+      "1 | Real [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Real [2/2] : 64",
+      "2 | Call hash [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "2 | Call hash [2/2] : 603cbbfc7a86a73b72adb3be8d",
+      "3 | Tip : PHA 0.00123456789"
+    ],
+    "output_expert": [
+      "0 | Proxy : Remove announcement",
+      "1 | Real [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Real [2/2] : 64",
+      "2 | Call hash [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "2 | Call hash [2/2] : 603cbbfc7a86a73b72adb3be8d",
+      "3 | Chain : Khala",
+      "4 | Nonce : 1",
+      "5 | Tip : PHA 0.00123456789",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 69,
+    "name": "Proxy_Remove_announcement",
+    "blob": "05070307326144f2eb32ae073e4dcd1e222acff9d38b73b52b38a78b60586a8834d9ded43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd5038d248ed73e0d9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Remove announcement",
+      "1 | Real [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Real [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Call hash [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "2 | Call hash [2/2] : 603cbbfc7a86a73b72adb3be8d",
+      "3 | Tip : PHA 0.000055555555"
+    ],
+    "output_expert": [
+      "0 | Proxy : Remove announcement",
+      "1 | Real [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Real [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Call hash [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "2 | Call hash [2/2] : 603cbbfc7a86a73b72adb3be8d",
+      "3 | Chain : Khala",
+      "4 | Nonce : 2339",
+      "5 | Tip : PHA 0.000055555555",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 70,
+    "name": "Proxy_Remove_announcement",
+    "blob": "050704297beecb87197bf24cabf83c9054b35aef490364d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd503ae1103000b63ce64c10c059d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Remove announcement",
+      "1 | Real [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Real [2/2] : 64",
+      "2 | Call hash [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "2 | Call hash [2/2] : 603cbbfc7a86a73b72adb3be8d",
+      "3 | Tip : PHA 5.552342355555"
+    ],
+    "output_expert": [
+      "0 | Proxy : Remove announcement",
+      "1 | Real [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Real [2/2] : 64",
+      "2 | Call hash [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "2 | Call hash [2/2] : 603cbbfc7a86a73b72adb3be8d",
+      "3 | Chain : Khala",
+      "4 | Nonce : 50283",
+      "5 | Tip : PHA 5.552342355555",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 71,
+    "name": "Proxy_Reject_announcement",
+    "blob": "050804297beecb87197bf24cabf83c9054b35aef490364d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd5030003d20296499d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Reject announcement",
+      "1 | Delegate [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Delegate [2/2] : 64",
+      "2 | Call hash [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "2 | Call hash [2/2] : 603cbbfc7a86a73b72adb3be8d",
+      "3 | Tip : PHA 0.00123456789"
+    ],
+    "output_expert": [
+      "0 | Proxy : Reject announcement",
+      "1 | Delegate [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Delegate [2/2] : 64",
+      "2 | Call hash [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "2 | Call hash [2/2] : 603cbbfc7a86a73b72adb3be8d",
+      "3 | Chain : Khala",
+      "4 | Nonce : 0",
+      "5 | Tip : PHA 0.00123456789",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 72,
+    "name": "Proxy_Reject_announcement",
+    "blob": "05080307326144f2eb32ae073e4dcd1e222acff9d38b73b52b38a78b60586a8834d9ded43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd503ae11030033158139ae28a3dfaac5fe1560a5e9e05c9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Reject announcement",
+      "1 | Delegate [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Delegate [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Call hash [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "2 | Call hash [2/2] : 603cbbfc7a86a73b72adb3be8d",
+      "3 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "3 | Tip [2/2] : 456789"
+    ],
+    "output_expert": [
+      "0 | Proxy : Reject announcement",
+      "1 | Delegate [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Delegate [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Call hash [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "2 | Call hash [2/2] : 603cbbfc7a86a73b72adb3be8d",
+      "3 | Chain : Khala",
+      "4 | Nonce : 50283",
+      "5 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "5 | Tip [2/2] : 456789",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 73,
+    "name": "Proxy_Reject_announcement",
+    "blob": "050804297beecb87197bf24cabf83c9054b35aef490364d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd5030433158139ae28a3dfaac5fe1560a5e9e05c9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Reject announcement",
+      "1 | Delegate [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Delegate [2/2] : 64",
+      "2 | Call hash [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "2 | Call hash [2/2] : 603cbbfc7a86a73b72adb3be8d",
+      "3 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "3 | Tip [2/2] : 456789"
+    ],
+    "output_expert": [
+      "0 | Proxy : Reject announcement",
+      "1 | Delegate [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Delegate [2/2] : 64",
+      "2 | Call hash [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "2 | Call hash [2/2] : 603cbbfc7a86a73b72adb3be8d",
+      "3 | Chain : Khala",
+      "4 | Nonce : 1",
+      "5 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "5 | Tip [2/2] : 456789",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 74,
+    "name": "Proxy_Reject_announcement",
+    "blob": "05080068179b9ae3741bae4790201deb57a096f6855946a4ef2fd219c087eb963cf7e0d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd5030003d20296499d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Reject announcement",
+      "1 | Delegate [1/2] : 42yGkMhNHzUCVsNURVj56AsYhGzeCF3msn56Sw",
+      "1 | Delegate [2/2] : 7k8RzTJWda",
+      "2 | Call hash [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "2 | Call hash [2/2] : 603cbbfc7a86a73b72adb3be8d",
+      "3 | Tip : PHA 0.00123456789"
+    ],
+    "output_expert": [
+      "0 | Proxy : Reject announcement",
+      "1 | Delegate [1/2] : 42yGkMhNHzUCVsNURVj56AsYhGzeCF3msn56Sw",
+      "1 | Delegate [2/2] : 7k8RzTJWda",
+      "2 | Call hash [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "2 | Call hash [2/2] : 603cbbfc7a86a73b72adb3be8d",
+      "3 | Chain : Khala",
+      "4 | Nonce : 0",
+      "5 | Tip : PHA 0.00123456789",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 75,
+    "name": "Proxy_Reject_announcement",
+    "blob": "050804297beecb87197bf24cabf83c9054b35aef490364d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd50391018ed73e0d9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Reject announcement",
+      "1 | Delegate [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Delegate [2/2] : 64",
+      "2 | Call hash [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "2 | Call hash [2/2] : 603cbbfc7a86a73b72adb3be8d",
+      "3 | Tip : PHA 0.000055555555"
+    ],
+    "output_expert": [
+      "0 | Proxy : Reject announcement",
+      "1 | Delegate [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Delegate [2/2] : 64",
+      "2 | Call hash [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "2 | Call hash [2/2] : 603cbbfc7a86a73b72adb3be8d",
+      "3 | Chain : Khala",
+      "4 | Nonce : 100",
+      "5 | Tip : PHA 0.000055555555",
+      "6 | Era Phase : 61",
+      "7 | Era Period : 64",
+      "8 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "8 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 76,
+    "name": "Proxy_Proxy_announced",
+    "blob": "050902809f84b2c54bd5dedbafc4ac67081664db176bfe2725ef7615b20e4194fc596a800307326144f2eb32ae073e4dcd1e222acff9d38b73b52b38a78b60586a8834d9de010500002c000000d503ae1103000b63ce64c10c059d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Proxy announced",
+      "1 | Delegate [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Delegate [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Real [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "2 | Real [2/2] : 73b52b38a78b60586a8834d9de",
+      "3 | Force proxy type : StakePoolManager",
+      "4 | Call [1/2] : Fill block",
+      "4 | Call [2/2] : 0.0000044%",
+      "5 | Tip : PHA 5.552342355555"
+    ],
+    "output_expert": [
+      "0 | Proxy : Proxy announced",
+      "1 | Delegate [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Delegate [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Real [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "2 | Real [2/2] : 73b52b38a78b60586a8834d9de",
+      "3 | Force proxy type : StakePoolManager",
+      "4 | Call [1/2] : Fill block",
+      "4 | Call [2/2] : 0.0000044%",
+      "5 | Chain : Khala",
+      "6 | Nonce : 50283",
+      "7 | Tip : PHA 5.552342355555",
+      "8 | Era Phase : 61",
+      "9 | Era Period : 64",
+      "10 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "10 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 77,
+    "name": "Proxy_Proxy_announced",
+    "blob": "05090068179b9ae3741bae4790201deb57a096f6855946a4ef2fd219c087eb963cf7e00307326144f2eb32ae073e4dcd1e222acff9d38b73b52b38a78b60586a8834d9de010000002c000000d5038d24009d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Proxy announced",
+      "1 | Delegate [1/2] : 42yGkMhNHzUCVsNURVj56AsYhGzeCF3msn56Sw",
+      "1 | Delegate [2/2] : 7k8RzTJWda",
+      "2 | Real [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "2 | Real [2/2] : 73b52b38a78b60586a8834d9de",
+      "3 | Force proxy type : Any",
+      "4 | Call [1/2] : Fill block",
+      "4 | Call [2/2] : 0.0000044%"
+    ],
+    "output_expert": [
+      "0 | Proxy : Proxy announced",
+      "1 | Delegate [1/2] : 42yGkMhNHzUCVsNURVj56AsYhGzeCF3msn56Sw",
+      "1 | Delegate [2/2] : 7k8RzTJWda",
+      "2 | Real [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "2 | Real [2/2] : 73b52b38a78b60586a8834d9de",
+      "3 | Force proxy type : Any",
+      "4 | Call [1/2] : Fill block",
+      "4 | Call [2/2] : 0.0000044%",
+      "5 | Chain : Khala",
+      "6 | Nonce : 2339",
+      "7 | Era Phase : 61",
+      "8 | Era Period : 64",
+      "9 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "9 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 78,
+    "name": "Proxy_Proxy_announced",
+    "blob": "05090307326144f2eb32ae073e4dcd1e222acff9d38b73b52b38a78b60586a8834d9de0307326144f2eb32ae073e4dcd1e222acff9d38b73b52b38a78b60586a8834d9de010100002c000000d5030003d20296499d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Proxy announced",
+      "1 | Delegate [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Delegate [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Real [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "2 | Real [2/2] : 73b52b38a78b60586a8834d9de",
+      "3 | Force proxy type : NonTransfer",
+      "4 | Call [1/2] : Fill block",
+      "4 | Call [2/2] : 0.0000044%",
+      "5 | Tip : PHA 0.00123456789"
+    ],
+    "output_expert": [
+      "0 | Proxy : Proxy announced",
+      "1 | Delegate [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "1 | Delegate [2/2] : 73b52b38a78b60586a8834d9de",
+      "2 | Real [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "2 | Real [2/2] : 73b52b38a78b60586a8834d9de",
+      "3 | Force proxy type : NonTransfer",
+      "4 | Call [1/2] : Fill block",
+      "4 | Call [2/2] : 0.0000044%",
+      "5 | Chain : Khala",
+      "6 | Nonce : 0",
+      "7 | Tip : PHA 0.00123456789",
+      "8 | Era Phase : 61",
+      "9 | Era Period : 64",
+      "10 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "10 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 79,
+    "name": "Proxy_Proxy_announced",
+    "blob": "050904297beecb87197bf24cabf83c9054b35aef4903640307326144f2eb32ae073e4dcd1e222acff9d38b73b52b38a78b60586a8834d9de010200002c000000d5038d24009d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Proxy announced",
+      "1 | Delegate [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Delegate [2/2] : 64",
+      "2 | Real [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "2 | Real [2/2] : 73b52b38a78b60586a8834d9de",
+      "3 | Force proxy type : CancelProxy",
+      "4 | Call [1/2] : Fill block",
+      "4 | Call [2/2] : 0.0000044%"
+    ],
+    "output_expert": [
+      "0 | Proxy : Proxy announced",
+      "1 | Delegate [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "1 | Delegate [2/2] : 64",
+      "2 | Real [1/2] : 07326144f2eb32ae073e4dcd1e222acff9d38b",
+      "2 | Real [2/2] : 73b52b38a78b60586a8834d9de",
+      "3 | Force proxy type : CancelProxy",
+      "4 | Call [1/2] : Fill block",
+      "4 | Call [2/2] : 0.0000044%",
+      "5 | Chain : Khala",
+      "6 | Nonce : 2339",
+      "7 | Era Phase : 61",
+      "8 | Era Period : 64",
+      "9 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "9 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 80,
+    "name": "Proxy_Proxy_announced",
+    "blob": "050902809f84b2c54bd5dedbafc4ac67081664db176bfe2725ef7615b20e4194fc596a8004297beecb87197bf24cabf83c9054b35aef490364010300002c000000d503ae1103000b63ce64c10c059d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | Proxy : Proxy announced",
+      "1 | Delegate [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Delegate [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Real [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "2 | Real [2/2] : 64",
+      "3 | Force proxy type : Governance",
+      "4 | Call [1/2] : Fill block",
+      "4 | Call [2/2] : 0.0000044%",
+      "5 | Tip : PHA 5.552342355555"
+    ],
+    "output_expert": [
+      "0 | Proxy : Proxy announced",
+      "1 | Delegate [1/2] : 9f84b2c54bd5dedbafc4ac67081664db176bfe",
+      "1 | Delegate [2/2] : 2725ef7615b20e4194fc596a80",
+      "2 | Real [1/2] : 297beecb87197bf24cabf83c9054b35aef4903",
+      "2 | Real [2/2] : 64",
+      "3 | Force proxy type : Governance",
+      "4 | Call [1/2] : Fill block",
+      "4 | Call [2/2] : 0.0000044%",
+      "5 | Chain : Khala",
+      "6 | Nonce : 50283",
+      "7 | Tip : PHA 5.552342355555",
+      "8 | Era Phase : 61",
+      "9 | Era Period : 64",
+      "10 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "10 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 81,
+    "name": "System_Fill_block",
+    "blob": "0000e98a2bf0d5038d24009d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | System : Fill block",
+      "1 | Ratio : 402.9385449%"
+    ],
+    "output_expert": [
+      "0 | System : Fill block",
+      "1 | Ratio : 402.9385449%",
+      "2 | Chain : Khala",
+      "3 | Nonce : 2339",
+      "4 | Era Phase : 61",
+      "5 | Era Period : 64",
+      "6 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "6 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 82,
+    "name": "System_Fill_block",
+    "blob": "0000e98a2bf0d503ae110300009d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | System : Fill block",
+      "1 | Ratio : 402.9385449%"
+    ],
+    "output_expert": [
+      "0 | System : Fill block",
+      "1 | Ratio : 402.9385449%",
+      "2 | Chain : Khala",
+      "3 | Nonce : 50283",
+      "4 | Era Phase : 61",
+      "5 | Era Period : 64",
+      "6 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "6 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 83,
+    "name": "System_Fill_block",
+    "blob": "00002d3a7a71d503ae1103006d0f9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | System : Fill block",
+      "1 | Ratio : 190.3835693%",
+      "2 | Tip : PHA 0.000000000987"
+    ],
+    "output_expert": [
+      "0 | System : Fill block",
+      "1 | Ratio : 190.3835693%",
+      "2 | Chain : Khala",
+      "3 | Nonce : 50283",
+      "4 | Tip : PHA 0.000000000987",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 84,
+    "name": "System_Fill_block",
+    "blob": "00002d3a7a71d503048ed73e0d9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | System : Fill block",
+      "1 | Ratio : 190.3835693%",
+      "2 | Tip : PHA 0.000055555555"
+    ],
+    "output_expert": [
+      "0 | System : Fill block",
+      "1 | Ratio : 190.3835693%",
+      "2 | Chain : Khala",
+      "3 | Nonce : 1",
+      "4 | Tip : PHA 0.000055555555",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 85,
+    "name": "System_Fill_block",
+    "blob": "0000e98a2bf0d503048ed73e0d9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | System : Fill block",
+      "1 | Ratio : 402.9385449%",
+      "2 | Tip : PHA 0.000055555555"
+    ],
+    "output_expert": [
+      "0 | System : Fill block",
+      "1 | Ratio : 402.9385449%",
+      "2 | Chain : Khala",
+      "3 | Nonce : 1",
+      "4 | Tip : PHA 0.000055555555",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 86,
+    "name": "System_Remark",
+    "blob": "0001100c293435d50391016d0f9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | System : Remark",
+      "1 | Remark [1/4] : 12",
+      "1 | Remark [2/4] : 41",
+      "1 | Remark [3/4] : 52",
+      "1 | Remark [4/4] : 53",
+      "2 | Tip : PHA 0.000000000987"
+    ],
+    "output_expert": [
+      "0 | System : Remark",
+      "1 | Remark [1/4] : 12",
+      "1 | Remark [2/4] : 41",
+      "1 | Remark [3/4] : 52",
+      "1 | Remark [4/4] : 53",
+      "2 | Chain : Khala",
+      "3 | Nonce : 100",
+      "4 | Tip : PHA 0.000000000987",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 87,
+    "name": "System_Remark",
+    "blob": "0001100c293435d503008ed73e0d9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | System : Remark",
+      "1 | Remark [1/4] : 12",
+      "1 | Remark [2/4] : 41",
+      "1 | Remark [3/4] : 52",
+      "1 | Remark [4/4] : 53",
+      "2 | Tip : PHA 0.000055555555"
+    ],
+    "output_expert": [
+      "0 | System : Remark",
+      "1 | Remark [1/4] : 12",
+      "1 | Remark [2/4] : 41",
+      "1 | Remark [3/4] : 52",
+      "1 | Remark [4/4] : 53",
+      "2 | Chain : Khala",
+      "3 | Nonce : 0",
+      "4 | Tip : PHA 0.000055555555",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 88,
+    "name": "System_Remark",
+    "blob": "0001100e2a0c49d503ae1103008ed73e0d9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | System : Remark",
+      "1 | Remark [1/4] : 14",
+      "1 | Remark [2/4] : 42",
+      "1 | Remark [3/4] : 12",
+      "1 | Remark [4/4] : 73",
+      "2 | Tip : PHA 0.000055555555"
+    ],
+    "output_expert": [
+      "0 | System : Remark",
+      "1 | Remark [1/4] : 14",
+      "1 | Remark [2/4] : 42",
+      "1 | Remark [3/4] : 12",
+      "1 | Remark [4/4] : 73",
+      "2 | Chain : Khala",
+      "3 | Nonce : 50283",
+      "4 | Tip : PHA 0.000055555555",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 89,
+    "name": "System_Remark",
+    "blob": "0001100c293435d5038d2433158139ae28a3dfaac5fe1560a5e9e05c9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | System : Remark",
+      "1 | Remark [1/4] : 12",
+      "1 | Remark [2/4] : 41",
+      "1 | Remark [3/4] : 52",
+      "1 | Remark [4/4] : 53",
+      "2 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "2 | Tip [2/2] : 456789"
+    ],
+    "output_expert": [
+      "0 | System : Remark",
+      "1 | Remark [1/4] : 12",
+      "1 | Remark [2/4] : 41",
+      "1 | Remark [3/4] : 52",
+      "1 | Remark [4/4] : 53",
+      "2 | Chain : Khala",
+      "3 | Nonce : 2339",
+      "4 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "4 | Tip [2/2] : 456789",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 90,
+    "name": "System_Remark",
+    "blob": "000110200b200bd5038d2403d20296499d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | System : Remark",
+      "1 | Remark [1/4] : 32",
+      "1 | Remark [2/4] : 11",
+      "1 | Remark [3/4] : 32",
+      "1 | Remark [4/4] : 11",
+      "2 | Tip : PHA 0.00123456789"
+    ],
+    "output_expert": [
+      "0 | System : Remark",
+      "1 | Remark [1/4] : 32",
+      "1 | Remark [2/4] : 11",
+      "1 | Remark [3/4] : 32",
+      "1 | Remark [4/4] : 11",
+      "2 | Chain : Khala",
+      "3 | Nonce : 2339",
+      "4 | Tip : PHA 0.00123456789",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 91,
+    "name": "System_Set_heap_pages",
+    "blob": "00020000000000000000d50391018ed73e0d9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | System : Set heap pages",
+      "1 | Pages : 0",
+      "2 | Tip : PHA 0.000055555555"
+    ],
+    "output_expert": [
+      "0 | System : Set heap pages",
+      "1 | Pages : 0",
+      "2 | Chain : Khala",
+      "3 | Nonce : 100",
+      "4 | Tip : PHA 0.000055555555",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 92,
+    "name": "System_Set_heap_pages",
+    "blob": "00020000000000000000d50391016d0f9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | System : Set heap pages",
+      "1 | Pages : 0",
+      "2 | Tip : PHA 0.000000000987"
+    ],
+    "output_expert": [
+      "0 | System : Set heap pages",
+      "1 | Pages : 0",
+      "2 | Chain : Khala",
+      "3 | Nonce : 100",
+      "4 | Tip : PHA 0.000000000987",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 93,
+    "name": "System_Set_heap_pages",
+    "blob": "00026400000000000000d503040b63ce64c10c059d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | System : Set heap pages",
+      "1 | Pages : 100",
+      "2 | Tip : PHA 5.552342355555"
+    ],
+    "output_expert": [
+      "0 | System : Set heap pages",
+      "1 | Pages : 100",
+      "2 | Chain : Khala",
+      "3 | Nonce : 1",
+      "4 | Tip : PHA 5.552342355555",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 94,
+    "name": "System_Set_heap_pages",
+    "blob": "00026400000000000000d5038d2403d20296499d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | System : Set heap pages",
+      "1 | Pages : 100",
+      "2 | Tip : PHA 0.00123456789"
+    ],
+    "output_expert": [
+      "0 | System : Set heap pages",
+      "1 | Pages : 100",
+      "2 | Chain : Khala",
+      "3 | Nonce : 2339",
+      "4 | Tip : PHA 0.00123456789",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 95,
+    "name": "System_Set_heap_pages",
+    "blob": "00026bc4000000000000d503910103d20296499d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | System : Set heap pages",
+      "1 | Pages : 50283",
+      "2 | Tip : PHA 0.00123456789"
+    ],
+    "output_expert": [
+      "0 | System : Set heap pages",
+      "1 | Pages : 50283",
+      "2 | Chain : Khala",
+      "3 | Nonce : 100",
+      "4 | Tip : PHA 0.00123456789",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 96,
+    "name": "System_Set_code",
+    "blob": "0003100d0c1323d5038d248ed73e0d9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | System : Set code",
+      "1 | Code [1/4] : 13",
+      "1 | Code [2/4] : 12",
+      "1 | Code [3/4] : 19",
+      "1 | Code [4/4] : 35",
+      "2 | Tip : PHA 0.000055555555"
+    ],
+    "output_expert": [
+      "0 | System : Set code",
+      "1 | Code [1/4] : 13",
+      "1 | Code [2/4] : 12",
+      "1 | Code [3/4] : 19",
+      "1 | Code [4/4] : 35",
+      "2 | Chain : Khala",
+      "3 | Nonce : 2339",
+      "4 | Tip : PHA 0.000055555555",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 97,
+    "name": "System_Set_code",
+    "blob": "0003100e2a0c49d5038d240b63ce64c10c059d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | System : Set code",
+      "1 | Code [1/4] : 14",
+      "1 | Code [2/4] : 42",
+      "1 | Code [3/4] : 12",
+      "1 | Code [4/4] : 73",
+      "2 | Tip : PHA 5.552342355555"
+    ],
+    "output_expert": [
+      "0 | System : Set code",
+      "1 | Code [1/4] : 14",
+      "1 | Code [2/4] : 42",
+      "1 | Code [3/4] : 12",
+      "1 | Code [4/4] : 73",
+      "2 | Chain : Khala",
+      "3 | Nonce : 2339",
+      "4 | Tip : PHA 5.552342355555",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 98,
+    "name": "System_Set_code",
+    "blob": "0003100c293435d50391010b63ce64c10c059d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | System : Set code",
+      "1 | Code [1/4] : 12",
+      "1 | Code [2/4] : 41",
+      "1 | Code [3/4] : 52",
+      "1 | Code [4/4] : 53",
+      "2 | Tip : PHA 5.552342355555"
+    ],
+    "output_expert": [
+      "0 | System : Set code",
+      "1 | Code [1/4] : 12",
+      "1 | Code [2/4] : 41",
+      "1 | Code [3/4] : 52",
+      "1 | Code [4/4] : 53",
+      "2 | Chain : Khala",
+      "3 | Nonce : 100",
+      "4 | Tip : PHA 5.552342355555",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 99,
+    "name": "System_Set_code",
+    "blob": "0003100c293435d503910133158139ae28a3dfaac5fe1560a5e9e05c9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | System : Set code",
+      "1 | Code [1/4] : 12",
+      "1 | Code [2/4] : 41",
+      "1 | Code [3/4] : 52",
+      "1 | Code [4/4] : 53",
+      "2 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "2 | Tip [2/2] : 456789"
+    ],
+    "output_expert": [
+      "0 | System : Set code",
+      "1 | Code [1/4] : 12",
+      "1 | Code [2/4] : 41",
+      "1 | Code [3/4] : 52",
+      "1 | Code [4/4] : 53",
+      "2 | Chain : Khala",
+      "3 | Nonce : 100",
+      "4 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "4 | Tip [2/2] : 456789",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 100,
+    "name": "System_Set_code",
+    "blob": "0003100c293435d5038d246d0f9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | System : Set code",
+      "1 | Code [1/4] : 12",
+      "1 | Code [2/4] : 41",
+      "1 | Code [3/4] : 52",
+      "1 | Code [4/4] : 53",
+      "2 | Tip : PHA 0.000000000987"
+    ],
+    "output_expert": [
+      "0 | System : Set code",
+      "1 | Code [1/4] : 12",
+      "1 | Code [2/4] : 41",
+      "1 | Code [3/4] : 52",
+      "1 | Code [4/4] : 53",
+      "2 | Chain : Khala",
+      "3 | Nonce : 2339",
+      "4 | Tip : PHA 0.000000000987",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 101,
+    "name": "System_Set_code_without_checks",
+    "blob": "000410200b200bd503ae11030003d20296499d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | System : Set code without checks",
+      "1 | Code [1/4] : 32",
+      "1 | Code [2/4] : 11",
+      "1 | Code [3/4] : 32",
+      "1 | Code [4/4] : 11",
+      "2 | Tip : PHA 0.00123456789"
+    ],
+    "output_expert": [
+      "0 | System : Set code without checks",
+      "1 | Code [1/4] : 32",
+      "1 | Code [2/4] : 11",
+      "1 | Code [3/4] : 32",
+      "1 | Code [4/4] : 11",
+      "2 | Chain : Khala",
+      "3 | Nonce : 50283",
+      "4 | Tip : PHA 0.00123456789",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 102,
+    "name": "System_Set_code_without_checks",
+    "blob": "0004100e2a0c49d5038d2433158139ae28a3dfaac5fe1560a5e9e05c9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | System : Set code without checks",
+      "1 | Code [1/4] : 14",
+      "1 | Code [2/4] : 42",
+      "1 | Code [3/4] : 12",
+      "1 | Code [4/4] : 73",
+      "2 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "2 | Tip [2/2] : 456789"
+    ],
+    "output_expert": [
+      "0 | System : Set code without checks",
+      "1 | Code [1/4] : 14",
+      "1 | Code [2/4] : 42",
+      "1 | Code [3/4] : 12",
+      "1 | Code [4/4] : 73",
+      "2 | Chain : Khala",
+      "3 | Nonce : 2339",
+      "4 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "4 | Tip [2/2] : 456789",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 103,
+    "name": "System_Set_code_without_checks",
+    "blob": "0004100d0c1323d503ae110300009d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | System : Set code without checks",
+      "1 | Code [1/4] : 13",
+      "1 | Code [2/4] : 12",
+      "1 | Code [3/4] : 19",
+      "1 | Code [4/4] : 35"
+    ],
+    "output_expert": [
+      "0 | System : Set code without checks",
+      "1 | Code [1/4] : 13",
+      "1 | Code [2/4] : 12",
+      "1 | Code [3/4] : 19",
+      "1 | Code [4/4] : 35",
+      "2 | Chain : Khala",
+      "3 | Nonce : 50283",
+      "4 | Era Phase : 61",
+      "5 | Era Period : 64",
+      "6 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "6 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 104,
+    "name": "System_Set_code_without_checks",
+    "blob": "0004100d0c1323d503ae110300009d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | System : Set code without checks",
+      "1 | Code [1/4] : 13",
+      "1 | Code [2/4] : 12",
+      "1 | Code [3/4] : 19",
+      "1 | Code [4/4] : 35"
+    ],
+    "output_expert": [
+      "0 | System : Set code without checks",
+      "1 | Code [1/4] : 13",
+      "1 | Code [2/4] : 12",
+      "1 | Code [3/4] : 19",
+      "1 | Code [4/4] : 35",
+      "2 | Chain : Khala",
+      "3 | Nonce : 50283",
+      "4 | Era Phase : 61",
+      "5 | Era Period : 64",
+      "6 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "6 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 105,
+    "name": "System_Set_code_without_checks",
+    "blob": "0004100e2a0c49d503046d0f9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | System : Set code without checks",
+      "1 | Code [1/4] : 14",
+      "1 | Code [2/4] : 42",
+      "1 | Code [3/4] : 12",
+      "1 | Code [4/4] : 73",
+      "2 | Tip : PHA 0.000000000987"
+    ],
+    "output_expert": [
+      "0 | System : Set code without checks",
+      "1 | Code [1/4] : 14",
+      "1 | Code [2/4] : 42",
+      "1 | Code [3/4] : 12",
+      "1 | Code [4/4] : 73",
+      "2 | Chain : Khala",
+      "3 | Nonce : 1",
+      "4 | Tip : PHA 0.000000000987",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 106,
+    "name": "System_Remark_with_event",
+    "blob": "0008100e2a0c49d50391016d0f9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | System : Remark with event",
+      "1 | Remark [1/4] : 14",
+      "1 | Remark [2/4] : 42",
+      "1 | Remark [3/4] : 12",
+      "1 | Remark [4/4] : 73",
+      "2 | Tip : PHA 0.000000000987"
+    ],
+    "output_expert": [
+      "0 | System : Remark with event",
+      "1 | Remark [1/4] : 14",
+      "1 | Remark [2/4] : 42",
+      "1 | Remark [3/4] : 12",
+      "1 | Remark [4/4] : 73",
+      "2 | Chain : Khala",
+      "3 | Nonce : 100",
+      "4 | Tip : PHA 0.000000000987",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 107,
+    "name": "System_Remark_with_event",
+    "blob": "0008100c293435d503ae11030033158139ae28a3dfaac5fe1560a5e9e05c9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | System : Remark with event",
+      "1 | Remark [1/4] : 12",
+      "1 | Remark [2/4] : 41",
+      "1 | Remark [3/4] : 52",
+      "1 | Remark [4/4] : 53",
+      "2 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "2 | Tip [2/2] : 456789"
+    ],
+    "output_expert": [
+      "0 | System : Remark with event",
+      "1 | Remark [1/4] : 12",
+      "1 | Remark [2/4] : 41",
+      "1 | Remark [3/4] : 52",
+      "1 | Remark [4/4] : 53",
+      "2 | Chain : Khala",
+      "3 | Nonce : 50283",
+      "4 | Tip [1/2] : PHA 123456789012345678901234567.890123",
+      "4 | Tip [2/2] : 456789",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 108,
+    "name": "System_Remark_with_event",
+    "blob": "000810200b200bd503ae1103006d0f9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | System : Remark with event",
+      "1 | Remark [1/4] : 32",
+      "1 | Remark [2/4] : 11",
+      "1 | Remark [3/4] : 32",
+      "1 | Remark [4/4] : 11",
+      "2 | Tip : PHA 0.000000000987"
+    ],
+    "output_expert": [
+      "0 | System : Remark with event",
+      "1 | Remark [1/4] : 32",
+      "1 | Remark [2/4] : 11",
+      "1 | Remark [3/4] : 32",
+      "1 | Remark [4/4] : 11",
+      "2 | Chain : Khala",
+      "3 | Nonce : 50283",
+      "4 | Tip : PHA 0.000000000987",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 109,
+    "name": "System_Remark_with_event",
+    "blob": "000810200b200bd503ae1103006d0f9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | System : Remark with event",
+      "1 | Remark [1/4] : 32",
+      "1 | Remark [2/4] : 11",
+      "1 | Remark [3/4] : 32",
+      "1 | Remark [4/4] : 11",
+      "2 | Tip : PHA 0.000000000987"
+    ],
+    "output_expert": [
+      "0 | System : Remark with event",
+      "1 | Remark [1/4] : 32",
+      "1 | Remark [2/4] : 11",
+      "1 | Remark [3/4] : 32",
+      "1 | Remark [4/4] : 11",
+      "2 | Chain : Khala",
+      "3 | Nonce : 50283",
+      "4 | Tip : PHA 0.000000000987",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  },
+  {
+    "index": 110,
+    "name": "System_Remark_with_event",
+    "blob": "0008100d0c1323d503048ed73e0d9d04000004000000d43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8dd43540ba6d3eb4897c28a77d48cb5b729fea37603cbbfc7a86a73b72adb3be8d",
+    "output": [
+      "0 | System : Remark with event",
+      "1 | Remark [1/4] : 13",
+      "1 | Remark [2/4] : 12",
+      "1 | Remark [3/4] : 19",
+      "1 | Remark [4/4] : 35",
+      "2 | Tip : PHA 0.000055555555"
+    ],
+    "output_expert": [
+      "0 | System : Remark with event",
+      "1 | Remark [1/4] : 13",
+      "1 | Remark [2/4] : 12",
+      "1 | Remark [3/4] : 19",
+      "1 | Remark [4/4] : 35",
+      "2 | Chain : Khala",
+      "3 | Nonce : 1",
+      "4 | Tip : PHA 0.000055555555",
+      "5 | Era Phase : 61",
+      "6 | Era Period : 64",
+      "7 | Block [1/2] : d43540ba6d3eb4897c28a77d48cb5b729fea37",
+      "7 | Block [2/2] : 603cbbfc7a86a73b72adb3be8d"
+    ]
+  }
+]
