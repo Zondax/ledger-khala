@@ -20,65 +20,65 @@ extern "C" {
 #endif
 
 #include "parser_common.h"
-#include "substrate_methods_V4.h"
-#include "substrate_types_V4.h"
+#include "substrate_methods_V5.h"
+#include "substrate_types_V5.h"
 #include <stddef.h>
 #include <stdint.h>
 
 // Read functions
-parser_error_t _readAccountIdLookupOfT_V4(parser_context_t* c, pd_AccountIdLookupOfT_V4_t* v);
-parser_error_t _readAccountId_V4(parser_context_t* c, pd_AccountId_V4_t* v);
-parser_error_t _readCallHashOf_V4(parser_context_t* c, pd_CallHashOf_V4_t* v);
-parser_error_t _readCompactAccountIndex_V4(parser_context_t* c, pd_CompactAccountIndex_V4_t* v);
-parser_error_t _readOptionProxyType_V4(parser_context_t* c, pd_OptionProxyType_V4_t* v);
-parser_error_t _readPerbill_V4(parser_context_t* c, pd_Perbill_V4_t* v);
-parser_error_t _readProxyType_V4(parser_context_t* c, pd_ProxyType_V4_t* v);
+parser_error_t _readAccountIdLookupOfT_V5(parser_context_t* c, pd_AccountIdLookupOfT_V5_t* v);
+parser_error_t _readAccountId_V5(parser_context_t* c, pd_AccountId_V5_t* v);
+parser_error_t _readCallHashOf_V5(parser_context_t* c, pd_CallHashOf_V5_t* v);
+parser_error_t _readCompactAccountIndex_V5(parser_context_t* c, pd_CompactAccountIndex_V5_t* v);
+parser_error_t _readOptionProxyType_V5(parser_context_t* c, pd_OptionProxyType_V5_t* v);
+parser_error_t _readPerbill_V5(parser_context_t* c, pd_Perbill_V5_t* v);
+parser_error_t _readProxyType_V5(parser_context_t* c, pd_ProxyType_V5_t* v);
 
 // toString functions
-parser_error_t _toStringAccountIdLookupOfT_V4(
-    const pd_AccountIdLookupOfT_V4_t* v,
+parser_error_t _toStringAccountIdLookupOfT_V5(
+    const pd_AccountIdLookupOfT_V5_t* v,
     char* outValue,
     uint16_t outValueLen,
     uint8_t pageIdx,
     uint8_t* pageCount);
 
-parser_error_t _toStringAccountId_V4(
-    const pd_AccountId_V4_t* v,
+parser_error_t _toStringAccountId_V5(
+    const pd_AccountId_V5_t* v,
     char* outValue,
     uint16_t outValueLen,
     uint8_t pageIdx,
     uint8_t* pageCount);
 
-parser_error_t _toStringCallHashOf_V4(
-    const pd_CallHashOf_V4_t* v,
+parser_error_t _toStringCallHashOf_V5(
+    const pd_CallHashOf_V5_t* v,
     char* outValue,
     uint16_t outValueLen,
     uint8_t pageIdx,
     uint8_t* pageCount);
 
-parser_error_t _toStringCompactAccountIndex_V4(
-    const pd_CompactAccountIndex_V4_t* v,
+parser_error_t _toStringCompactAccountIndex_V5(
+    const pd_CompactAccountIndex_V5_t* v,
     char* outValue,
     uint16_t outValueLen,
     uint8_t pageIdx,
     uint8_t* pageCount);
 
-parser_error_t _toStringOptionProxyType_V4(
-    const pd_OptionProxyType_V4_t* v,
+parser_error_t _toStringOptionProxyType_V5(
+    const pd_OptionProxyType_V5_t* v,
     char* outValue,
     uint16_t outValueLen,
     uint8_t pageIdx,
     uint8_t* pageCount);
 
-parser_error_t _toStringPerbill_V4(
-    const pd_Perbill_V4_t* v,
+parser_error_t _toStringPerbill_V5(
+    const pd_Perbill_V5_t* v,
     char* outValue,
     uint16_t outValueLen,
     uint8_t pageIdx,
     uint8_t* pageCount);
 
-parser_error_t _toStringProxyType_V4(
-    const pd_ProxyType_V4_t* v,
+parser_error_t _toStringProxyType_V5(
+    const pd_ProxyType_V5_t* v,
     char* outValue,
     uint16_t outValueLen,
     uint8_t pageIdx,
