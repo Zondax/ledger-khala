@@ -26,10 +26,6 @@ import { blake2bFinal, blake2bInit, blake2bUpdate } from 'blakejs'
 
 jest.setTimeout(60000)
 
-beforeAll(async () => {
-  await Zemu.checkAndPullImage()
-})
-
 describe('Custom', function () {
   test.each(models)('can start and stop container', async function (m) {
     const sim = new Zemu(m.path)
