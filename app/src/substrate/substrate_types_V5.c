@@ -16,7 +16,7 @@
 #include "bignum.h"
 #include "coin.h"
 #include "parser_impl.h"
-#include "substrate_dispatch_V4.h"
+#include "substrate_dispatch_V5.h"
 #include "substrate_strings.h"
 
 #include <stddef.h>
@@ -24,16 +24,16 @@
 #include <zxformat.h>
 #include <zxmacros.h>
 
-parser_error_t _readAccountIdLookupOfT_V4(parser_context_t* c, pd_AccountIdLookupOfT_V4_t* v)
+parser_error_t _readAccountIdLookupOfT_V5(parser_context_t* c, pd_AccountIdLookupOfT_V5_t* v)
 {
     CHECK_INPUT()
     CHECK_ERROR(_readUInt8(c, &v->value))
     switch (v->value) {
     case 0: // Id
-        CHECK_ERROR(_readAccountId_V4(c, &v->id))
+        CHECK_ERROR(_readAccountId_V5(c, &v->id))
         break;
     case 1: // Index
-        CHECK_ERROR(_readCompactAccountIndex_V4(c, &v->index))
+        CHECK_ERROR(_readCompactAccountIndex_V5(c, &v->index))
         break;
     case 2: // Raw
         CHECK_ERROR(_readBytes(c, &v->raw))
@@ -51,27 +51,27 @@ parser_error_t _readAccountIdLookupOfT_V4(parser_context_t* c, pd_AccountIdLooku
     return parser_ok;
 }
 
-parser_error_t _readAccountId_V4(parser_context_t* c, pd_AccountId_V4_t* v) {
+parser_error_t _readAccountId_V5(parser_context_t* c, pd_AccountId_V5_t* v) {
     GEN_DEF_READARRAY(32)
 }
 
-parser_error_t _readCallHashOf_V4(parser_context_t* c, pd_CallHashOf_V4_t* v) {
+parser_error_t _readCallHashOf_V5(parser_context_t* c, pd_CallHashOf_V5_t* v) {
     GEN_DEF_READARRAY(32)
 }
 
-parser_error_t _readCompactAccountIndex_V4(parser_context_t* c, pd_CompactAccountIndex_V4_t* v)
+parser_error_t _readCompactAccountIndex_V5(parser_context_t* c, pd_CompactAccountIndex_V5_t* v)
 {
     return _readCompactInt(c, &v->value);
 }
 
-parser_error_t _readPerbill_V4(parser_context_t* c, pd_Perbill_V4_t* v)
+parser_error_t _readPerbill_V5(parser_context_t* c, pd_Perbill_V5_t* v)
 {
     CHECK_INPUT()
     CHECK_ERROR(_readUInt32(c, &v->value))
     return parser_ok;
 }
 
-parser_error_t _readProxyType_V4(parser_context_t* c, pd_ProxyType_V4_t* v)
+parser_error_t _readProxyType_V5(parser_context_t* c, pd_ProxyType_V5_t* v)
 {
     CHECK_INPUT()
     CHECK_ERROR(_readUInt8(c, &v->value))
@@ -81,11 +81,11 @@ parser_error_t _readProxyType_V4(parser_context_t* c, pd_ProxyType_V4_t* v)
     return parser_ok;
 }
 
-parser_error_t _readOptionProxyType_V4(parser_context_t* c, pd_OptionProxyType_V4_t* v)
+parser_error_t _readOptionProxyType_V5(parser_context_t* c, pd_OptionProxyType_V5_t* v)
 {
     CHECK_ERROR(_readUInt8(c, &v->some))
     if (v->some > 0) {
-        CHECK_ERROR(_readProxyType_V4(c, &v->contained))
+        CHECK_ERROR(_readProxyType_V5(c, &v->contained))
     }
     return parser_ok;
 }
@@ -94,8 +94,8 @@ parser_error_t _readOptionProxyType_V4(parser_context_t* c, pd_OptionProxyType_V
 ///////////////////////////////////
 ///////////////////////////////////
 
-parser_error_t _toStringAccountIdLookupOfT_V4(
-    const pd_AccountIdLookupOfT_V4_t* v,
+parser_error_t _toStringAccountIdLookupOfT_V5(
+    const pd_AccountIdLookupOfT_V5_t* v,
     char* outValue,
     uint16_t outValueLen,
     uint8_t pageIdx,
@@ -104,10 +104,10 @@ parser_error_t _toStringAccountIdLookupOfT_V4(
     CLEAN_AND_CHECK()
     switch (v->value) {
     case 0: // Id
-        CHECK_ERROR(_toStringAccountId_V4(&v->id, outValue, outValueLen, pageIdx, pageCount))
+        CHECK_ERROR(_toStringAccountId_V5(&v->id, outValue, outValueLen, pageIdx, pageCount))
         break;
     case 1: // Index
-        CHECK_ERROR(_toStringCompactAccountIndex_V4(&v->index, outValue, outValueLen, pageIdx, pageCount))
+        CHECK_ERROR(_toStringCompactAccountIndex_V5(&v->index, outValue, outValueLen, pageIdx, pageCount))
         break;
     case 2: // Raw
         CHECK_ERROR(_toStringBytes(&v->raw, outValue, outValueLen, pageIdx, pageCount))
@@ -127,8 +127,8 @@ parser_error_t _toStringAccountIdLookupOfT_V4(
     return parser_ok;
 }
 
-parser_error_t _toStringAccountId_V4(
-    const pd_AccountId_V4_t* v,
+parser_error_t _toStringAccountId_V5(
+    const pd_AccountId_V5_t* v,
     char* outValue,
     uint16_t outValueLen,
     uint8_t pageIdx,
@@ -137,8 +137,8 @@ parser_error_t _toStringAccountId_V4(
     return _toStringPubkeyAsAddress(v->_ptr, outValue, outValueLen, pageIdx, pageCount);
 }
 
-parser_error_t _toStringCallHashOf_V4(
-    const pd_CallHashOf_V4_t* v,
+parser_error_t _toStringCallHashOf_V5(
+    const pd_CallHashOf_V5_t* v,
     char* outValue,
     uint16_t outValueLen,
     uint8_t pageIdx,
@@ -146,8 +146,8 @@ parser_error_t _toStringCallHashOf_V4(
     GEN_DEF_TOSTRING_ARRAY(32)
 }
 
-parser_error_t _toStringCompactAccountIndex_V4(
-    const pd_CompactAccountIndex_V4_t* v,
+parser_error_t _toStringCompactAccountIndex_V5(
+    const pd_CompactAccountIndex_V5_t* v,
     char* outValue,
     uint16_t outValueLen,
     uint8_t pageIdx,
@@ -156,8 +156,8 @@ parser_error_t _toStringCompactAccountIndex_V4(
     return _toStringCompactInt(&v->value, 0, false, "", "", outValue, outValueLen, pageIdx, pageCount);
 }
 
-parser_error_t _toStringPerbill_V4(
-    const pd_Perbill_V4_t* v,
+parser_error_t _toStringPerbill_V5(
+    const pd_Perbill_V5_t* v,
     char* outValue,
     uint16_t outValueLen,
     uint8_t pageIdx,
@@ -179,8 +179,8 @@ parser_error_t _toStringPerbill_V4(
     return parser_ok;
 }
 
-parser_error_t _toStringProxyType_V4(
-    const pd_ProxyType_V4_t* v,
+parser_error_t _toStringProxyType_V5(
+    const pd_ProxyType_V5_t* v,
     char* outValue,
     uint16_t outValueLen,
     uint8_t pageIdx,
@@ -213,8 +213,8 @@ parser_error_t _toStringProxyType_V4(
     return parser_ok;
 }
 
-parser_error_t _toStringOptionProxyType_V4(
-    const pd_OptionProxyType_V4_t* v,
+parser_error_t _toStringOptionProxyType_V5(
+    const pd_OptionProxyType_V5_t* v,
     char* outValue,
     uint16_t outValueLen,
     uint8_t pageIdx,
@@ -224,7 +224,7 @@ parser_error_t _toStringOptionProxyType_V4(
 
     *pageCount = 1;
     if (v->some > 0) {
-        CHECK_ERROR(_toStringProxyType_V4(
+        CHECK_ERROR(_toStringProxyType_V5(
             &v->contained,
             outValue, outValueLen,
             pageIdx, pageCount));

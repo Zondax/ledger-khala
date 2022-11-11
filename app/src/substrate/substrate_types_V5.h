@@ -28,38 +28,38 @@ extern "C" {
 
 typedef struct {
     const uint8_t* _ptr;
-} pd_AccountId_V4_t;
+} pd_AccountId_V5_t;
 
 typedef struct {
     compactInt_t value;
-} pd_CompactAccountIndex_V4_t;
+} pd_CompactAccountIndex_V5_t;
 
 typedef struct {
     uint8_t value;
-} pd_ProxyType_V4_t;
+} pd_ProxyType_V5_t;
 
 typedef struct {
     uint8_t value;
     union {
-        pd_AccountId_V4_t id;
-        pd_CompactAccountIndex_V4_t index;
+        pd_AccountId_V5_t id;
+        pd_CompactAccountIndex_V5_t index;
         pd_Bytes_t raw;
         const uint8_t* _ptr;
     };
-} pd_AccountIdLookupOfT_V4_t;
+} pd_AccountIdLookupOfT_V5_t;
 
 typedef struct {
     const uint8_t* _ptr;
-} pd_CallHashOf_V4_t;
+} pd_CallHashOf_V5_t;
 
 typedef struct {
     uint8_t some;
-    pd_ProxyType_V4_t contained;
-} pd_OptionProxyType_V4_t;
+    pd_ProxyType_V5_t contained;
+} pd_OptionProxyType_V5_t;
 
 typedef struct {
     uint32_t value;
-} pd_Perbill_V4_t;
+} pd_Perbill_V5_t;
 
 #ifdef __cplusplus
 }
