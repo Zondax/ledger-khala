@@ -60,14 +60,14 @@ $(info ************ FULL PARSER ENABLED ************)
 endif
 
 ifndef COIN
-COIN=PHA
+COIN=KHALA
 endif
 
 include $(CURDIR)/Makefile.version
 
 $(info COIN  = [$(COIN)])
 
-ifeq ($(COIN),PHA)
+ifeq ($(COIN),KHALA)
 # Main app configuration
 DEFINES += APP_STANDARD
 ifneq ($(TARGET_NAME),TARGET_NANOS)
@@ -76,7 +76,7 @@ endif
 APPNAME = "Khala"
 APPPATH = "44'/434'"
 
-else ifeq ($(COIN),PHA_XL)
+else ifeq ($(COIN),KHALA_XL)
 # XL app configuration
 DEFINES += APP_STANDARD SUBSTRATE_PARSER_FULL
 APPNAME = "Khala XL"
@@ -252,9 +252,9 @@ dep/%.d: %.c Makefile
 .PHONY: listvariants
 listvariants:
 ifeq ($(TARGET_NAME),TARGET_NANOS)
-	@echo VARIANTS COIN PHA PHA_XL
+	@echo VARIANTS COIN KHALA KHALA_XL
 else
-	@echo VARIANTS COIN PHA
+	@echo VARIANTS COIN KHALA
 endif
 
 .PHONY: version
